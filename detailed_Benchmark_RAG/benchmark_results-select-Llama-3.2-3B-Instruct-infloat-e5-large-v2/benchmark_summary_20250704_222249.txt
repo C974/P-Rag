@@ -1,0 +1,118 @@
+Palestine RAG Benchmark Evaluation Report
+==================================================
+
+Configuration:
+  Model: meta-llama/Llama-3.2-3B-Instruct
+  Embedding Model: intfloat/e5-large-v2
+  Vector DB Size: 17374 chunks
+  Retrieval Top-K: 5
+
+Overall Results:
+  Total Questions: 222
+  Correct Answers: 137
+  Overall Accuracy: 61.71%
+  Valid Selections: 222
+  Valid Selection Rate: 100.00%
+  Generation Success Rate: 100.00%
+
+Timing Statistics:
+  Total Evaluation Time: 863.88 seconds
+  Average Retrieval Time: 0.159 seconds
+  Average Generation Time: 3.731 seconds
+  Average Total Time per Question: 3.890 seconds
+
+Confidence Statistics:
+  Mean Confidence: 1.000
+  Median Confidence: 1.000
+  Min Confidence: 1.000
+  Max Confidence: 1.000
+
+Performance by Bloom Taxonomy Level:
+  Remember:
+    Questions: 40
+    Correct: 15
+    Accuracy: 37.50%
+    Avg Time: 3.886 seconds
+
+  Understand:
+    Questions: 40
+    Correct: 33
+    Accuracy: 82.50%
+    Avg Time: 3.571 seconds
+
+  Apply:
+    Questions: 40
+    Correct: 30
+    Accuracy: 75.00%
+    Avg Time: 3.463 seconds
+
+  Analyze:
+    Questions: 40
+    Correct: 21
+    Accuracy: 52.50%
+    Avg Time: 3.057 seconds
+
+  Evaluate:
+    Questions: 40
+    Correct: 27
+    Accuracy: 67.50%
+    Avg Time: 5.326 seconds
+
+  Create:
+    Questions: 22
+    Correct: 11
+    Accuracy: 50.00%
+    Avg Time: 4.160 seconds
+
+Sample Results (First 5 Questions):
+--------------------------------------------------
+Question 0:
+  Query: What specific promises did Britain make to both Arabs and Jews during WWI?
+  Correct Choice: McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.
+  Selected Choice: Britain promised a binational state with equal power-sharing.
+  Model Response: D
+  Is Correct: False
+  Valid Selection: True
+  Confidence: 1.000
+  Bloom Level: Remember
+
+Question 1:
+  Query: How many Palestinian villages were destroyed during + 1948 Nakba?
+  Correct Choice: Over 530 villages razed by Zionist militias to prevent Palestinian return.
+  Selected Choice: All villages remained intact; Palestinians left voluntarily.
+  Model Response: C
+  Is Correct: False
+  Valid Selection: True
+  Confidence: 1.000
+  Bloom Level: Remember
+
+Question 2:
+  Query: What was the population of Palestine in 1946 by religious/ethnic group?
+  Correct Choice: 1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).
+  Selected Choice: Equal numbers of Jews and Arabs (650,000 each).
+  Model Response: C
+  Is Correct: False
+  Valid Selection: True
+  Confidence: 1.000
+  Bloom Level: Remember
+
+Question 3:
+  Query: How much land did Jews own in Palestine before 1948?
+  Correct Choice: 6-7%, primarily purchased from absentee landlords.
+  Selected Choice: Joint Arab-Jewish ownership covered 80%.
+  Model Response: C
+  Is Correct: False
+  Valid Selection: True
+  Confidence: 1.000
+  Bloom Level: Remember
+
+Question 4:
+  Query: What percentage of Palestinian refugees were never allowed to return?
+  Correct Choice: 95% barred by Israel’s 1952 Citizenship Law.
+  Selected Choice: Israel offered citizenship to all refugees.
+  Model Response: C
+  Is Correct: False
+  Valid Selection: True
+  Confidence: 1.000
+  Bloom Level: Remember
+

@@ -1,0 +1,1370 @@
+================================================================================
+DETAILED BENCHMARK RESULTS SUMMARY
+================================================================================
+
+Timestamp: 2025-06-25T22:52:52.588781
+Total Questions: 222
+Correct Answers: 5
+Wrong Answers: 217
+Overall Accuracy: 0.0225 (2.25%)
+
+BLOOM TAXONOMY LEVEL ANALYSIS
+--------------------------------------------------
+Remember:
+  Questions: 40
+  Correct: 1
+  Wrong: 39
+  Accuracy: 0.0250 (2.50%)
+
+Understand:
+  Questions: 40
+  Correct: 0
+  Wrong: 40
+  Accuracy: 0.0000 (0.00%)
+
+Apply:
+  Questions: 40
+  Correct: 0
+  Wrong: 40
+  Accuracy: 0.0000 (0.00%)
+
+Analyze:
+  Questions: 40
+  Correct: 0
+  Wrong: 40
+  Accuracy: 0.0000 (0.00%)
+
+Evaluate:
+  Questions: 40
+  Correct: 2
+  Wrong: 38
+  Accuracy: 0.0500 (5.00%)
+
+Create:
+  Questions: 22
+  Correct: 2
+  Wrong: 20
+  Accuracy: 0.0909 (9.09%)
+
+WRONG ANSWERS BY BLOOM LEVEL (217 total)
+--------------------------------------------------
+
+Remember Level - 39 wrong answers:
+------------------------------
+1. ID: 0
+   Question: What specific promises did Britain make to both Arabs and Jews during WWI?
+   Choices: ['McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.', 'Britain guaranteed Palestine exclusively to Jews in the Sykes-Picot Agreement.', 'No formal promises existed; both groups misinterpreted diplomatic letters.', 'Britain promised a binational state with equal power-sharing.']
+   Correct: McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.
+   Model chose: Britain guaranteed Palestine exclusively to Jews in the Sykes-Picot Agreement.
+
+2. ID: 1
+   Question: How many Palestinian villages were destroyed during the 1948 Nakba?
+   Choices: ['Over 530 villages razed by Zionist militias to prevent Palestinian return.', 'Only 50 villages were damaged in the war.', 'All villages remained intact; Palestinians left voluntarily.', '200 villages were rebuilt by Israel for Jewish immigrants.']
+   Correct: Over 530 villages razed by Zionist militias to prevent Palestinian return.
+   Model chose: Only 50 villages were damaged in the war.
+
+3. ID: 2
+   Question: What was the population of Palestine in 1946 by religious/ethnic group?
+   Choices: ['1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).', 'Jews comprised 55% of the population.', 'Equal numbers of Jews and Arabs (650,000 each).', 'Christians were the majority (70%).']
+   Correct: 1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).
+   Model chose: Christians were the majority (70%).
+
+4. ID: 3
+   Question: How much land did Jews own in Palestine before 1948?
+   Choices: ['6-7%, primarily purchased from absentee landlords.', 'Jews owned 45% through legal acquisitions.', 'Joint Arab-Jewish ownership covered 80%.', 'The UN granted 55% to Jews due to existing land holdings.']
+   Correct: 6-7%, primarily purchased from absentee landlords.
+   Model chose: Joint Arab-Jewish ownership covered 80%.
+
+5. ID: 4
+   Question: What percentage of Palestinian refugees were never allowed to return?
+   Choices: ['95% barred by Israel’s 1952 Citizenship Law.', '80% returned after 1948.', 'Israel offered citizenship to all refugees.', '50% resettled voluntarily in Arab states.']
+   Correct: 95% barred by Israel’s 1952 Citizenship Law.
+   Model chose: 80% returned after 1948.
+
+6. ID: 5
+   Question: How many Palestinian civilians were killed in Deir Yassin?
+   Choices: ['100–250+ massacred by Irgun/Stern Gang militias.', 'Only 12 combatants died in a battle.', 'No civilians were harmed; it was a military base.', 'Deaths were fabricated (under 20 killed).']
+   Correct: 100–250+ massacred by Irgun/Stern Gang militias.
+   Model chose: Only 12 combatants died in a battle.
+
+7. ID: 6
+   Question: What was the Haganah's Plan Dalet?
+   Choices: ['Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.', 'A defensive strategy against Arab armies.', 'A humanitarian plan to protect civilians.', 'A UN-approved resettlement initiative.']
+   Correct: Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.
+   Model chose: A defensive strategy against Arab armies.
+
+8. ID: 7
+   Question: How many Zionist paramilitary organizations operated before 1948?
+   Choices: ['3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).', 'Only Haganah existed.', 'Over 10 non-violent Zionist groups.', 'None; Jews rejected armed resistance.']
+   Correct: 3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).
+   Model chose: Only Haganah existed.
+
+9. ID: 8
+   Question: What was the King David Hotel bombing death toll?
+   Choices: ['91 killed (mostly British/Arab civilians) by Irgun in 1946.', 'Only 5 soldiers died in a targeted strike.', 'No fatalities; it was a failed operation.', '200+ militants killed in self-defense.']
+   Correct: 91 killed (mostly British/Arab civilians) by Irgun in 1946.
+   Model chose: No fatalities; it was a failed operation.
+
+10. ID: 10
+   Question: What does Israeli historian Benny Morris document about 1948 expulsions?
+   Choices: ['Forced expulsions ordered by Zionist leaders (e.g., Ben-Gurion) to create a Jewish majority.', 'Palestinians left voluntarily after Arab leaders’ calls.', 'No expulsions occurred; all departures were wartime panic.', 'Expulsions were isolated incidents by rogue militias.']
+   Correct: Forced expulsions ordered by Zionist leaders (e.g., Ben-Gurion) to create a Jewish majority.
+   Model chose: Expulsions were isolated incidents by rogue militias.
+
+11. ID: 11
+   Question: How many Palestinians were internally displaced within Israel after 1948?
+   Choices: ['250,000+ designated present absentees – barred from returning home.', 'None; all Palestinians retained property rights.', 'Only 10,000 were displaced temporarily.', 'Israel compensated all displaced families.']
+   Correct: 250,000+ designated present absentees – barred from returning home.
+   Model chose: Israel compensated all displaced families.
+
+12. ID: 12
+   Question: What was Operation Hiram and its impact on Palestinian civilians?
+   Choices: ['Mass expulsion/massacres (e.g., Al-Dawayima) forcing 50,000+ Palestinians from Galilee (1948).', 'A humanitarian aid operation for Arab villages.', 'Minor border skirmishes with no casualties.', 'Palestinian fighters surrendered peacefully.']
+   Correct: Mass expulsion/massacres (e.g., Al-Dawayima) forcing 50,000+ Palestinians from Galilee (1948).
+   Model chose: A humanitarian aid operation for Arab villages.
+
+13. ID: 13
+   Question: How many Palestinian refugees fled to neighboring countries in 1948?
+   Choices: ['750,000+ expelled or fled.', '100,000 left temporarily for safety.', 'None; all remained in Israel.', '500,000 migrated for economic opportunities.']
+   Correct: 750,000+ expelled or fled.
+   Model chose: 500,000 migrated for economic opportunities.
+
+14. ID: 14
+   Question: What percentage of historic Palestine was allocated to Jews in the UN Partition Plan despite being a minority?
+   Choices: ['56% to Jews (33% of population); 43% to Arabs.', 'Equal land shares (50/50).', 'Jews received 30% as a minority.', 'Arabs got 70% for their majority.']
+   Correct: 56% to Jews (33% of population); 43% to Arabs.
+   Model chose: Equal land shares (50/50).
+
+15. ID: 15
+   Question: How many Palestinian refugees are registered with UNRWA today?
+   Choices: ['5.9 million across Gaza/West Bank/Jordan/Lebanon/Syria.', 'Under 100,000 still hold refugee status.', '2 million, mostly resettled abroad.', 'UNRWA was dissolved in 2024.']
+   Correct: 5.9 million across Gaza/West Bank/Jordan/Lebanon/Syria.
+   Model chose: 2 million, mostly resettled abroad.
+
+16. ID: 16
+   Question: What was the Lydda Death March?
+   Choices: ['Forced expulsion of 50,000–70,000 Palestinians from Lydda/Ramle in 1948; hundreds died of dehydration.', 'A voluntary relocation to Jordan.', 'A peaceful protest march to Jerusalem.', 'An Israeli humanitarian evacuation.']
+   Correct: Forced expulsion of 50,000–70,000 Palestinians from Lydda/Ramle in 1948; hundreds died of dehydration.
+   Model chose: A peaceful protest march to Jerusalem.
+
+17. ID: 17
+   Question: How many Palestinian villages were depopulated in 1967?
+   Choices: ['Over 400,000 Palestinians displaced; 13 villages razed (e.g., Imwas, Yalu).', 'No villages were depopulated.', 'Only 3 villages evacuated for security.', 'Palestinians left to join Jordan’s army.']
+   Correct: Over 400,000 Palestinians displaced; 13 villages razed (e.g., Imwas, Yalu).
+   Model chose: No villages were depopulated.
+
+18. ID: 18
+   Question: What was the Israeli government's official policy toward Palestinian return?
+   Choices: ['Absolute rejection (e.g., 1948 Law of Return for Jews only; 1952 Citizenship Law).', 'Israel encourages family reunification.', 'All refugees can return under the Oslo Accords.', 'Palestinians accepted compensation instead.']
+   Correct: Absolute rejection (e.g., 1948 Law of Return for Jews only; 1952 Citizenship Law).
+   Model chose: Israel encourages family reunification.
+
+19. ID: 19
+   Question: How many Palestinians live in refugee camps today?
+   Choices: ['1.5+ million in 58 UNRWA camps.', 'Less than 10,000 in temporary shelters.', 'Camps were closed in 2000.', 'All refugees integrated into host countries.']
+   Correct: 1.5+ million in 58 UNRWA camps.
+   Model chose: All refugees integrated into host countries.
+
+20. ID: 20
+   Question: How many Palestinian children have been killed in Gaza since 2008?
+   Choices: ['Over 3,500+ (per UN data: 2,200+ in 2014 alone, 1,300+ in 2023–2025).', 'Under 100 child casualties.', 'No children died; Hamas uses human shields.', 'Deaths caused by Hamas rockets.']
+   Correct: Over 3,500+ (per UN data: 2,200+ in 2014 alone, 1,300+ in 2023–2025).
+   Model chose: Under 100 child casualties.
+
+21. ID: 21
+   Question: What is the current caloric restriction imposed on Gaza?
+   Choices: ['~1,000 calories/day (less than half WHO minimum) during Israeli blockades.', 'No restrictions; Gaza has surplus food.', '2,500 calories/day via aid convoys.', 'Israel delivers gourmet meals daily.']
+   Correct: ~1,000 calories/day (less than half WHO minimum) during Israeli blockades.
+   Model chose: No restrictions; Gaza has surplus food.
+
+22. ID: 22
+   Question: How many Palestinians are held in Israeli administrative detention?
+   Choices: ['1,200+ indefinitely jailed without charge or trial.', 'Administrative detention doesn’t exist.', 'Only 50 security suspects detained.', 'All detainees receive fair trials.']
+   Correct: 1,200+ indefinitely jailed without charge or trial.
+   Model chose: Administrative detention doesn’t exist.
+
+23. ID: 23
+   Question: What percentage of Gaza's water is unfit for human consumption?
+   Choices: ['97% contaminated by sewage/seawater due to infrastructure destruction.', 'Gaza has 100% clean water.', '10% shortage fixed by Israeli desalination.', 'Hamas diverts water for tunnels.']
+   Correct: 97% contaminated by sewage/seawater due to infrastructure destruction.
+   Model chose: Gaza has 100% clean water.
+
+24. ID: 24
+   Question: How many Palestinian homes have been demolished since 1967?
+   Choices: ['Over 60,000+ (per B’Tselem), including East Jerusalem.', 'Only 100 illegal structures removed.', 'Demolitions stopped after Oslo Accords.', 'Palestinians rebuild freely.']
+   Correct: Over 60,000+ (per B’Tselem), including East Jerusalem.
+   Model chose: Palestinians rebuild freely.
+
+25. ID: 25
+   Question: What is the infant mortality rate in Gaza compared to Israel?
+   Choices: ['17.7 deaths/1,000 births (Gaza) vs. 3.0 (Israel) – 6× higher.', 'Lower in Gaza due to UN aid.', 'Identical rates (3.0/1,000).', 'Israel has higher infant mortality.']
+   Correct: 17.7 deaths/1,000 births (Gaza) vs. 3.0 (Israel) – 6× higher.
+   Model chose: Israel has higher infant mortality.
+
+26. ID: 26
+   Question: How many Palestinian prisoners have died in Israeli custody?
+   Choices: ['250+ since 1967 (torture/medical neglect).', 'Zero deaths; prisons meet UN standards.', '5 natural deaths in 75 years.', 'Hamas executes prisoners in Gaza.']
+   Correct: 250+ since 1967 (torture/medical neglect).
+   Model chose: Hamas executes prisoners in Gaza.
+
+27. ID: 27
+   Question: What percentage of Palestinian children experience PTSD in Gaza?
+   Choices: ['75%+ (per Save the Children) from bombing/blockade trauma.', 'Under 5% due to resilience programs.', 'PTSD is higher in Israeli children.', 'No studies exist on this topic.']
+   Correct: 75%+ (per Save the Children) from bombing/blockade trauma.
+   Model chose: No studies exist on this topic.
+
+28. ID: 28
+   Question: How many Palestinian students cannot reach schools due to checkpoints?
+   Choices: ['40%+ in West Bank face delays/denial (per UNICEF).', 'Checkpoints never obstruct education.', 'Only 1% of students affected.', 'Israel provides free buses to schools.']
+   Correct: 40%+ in West Bank face delays/denial (per UNICEF).
+   Model chose: Only 1% of students affected.
+
+29. ID: 29
+   Question: What is the unemployment rate in Gaza under blockade?
+   Choices: ['70%+ (world’s highest, per World Bank).', '5% due to high-tech startups.', 'Lower than Israel’s unemployment.', 'Gaza’s economy is booming.']
+   Correct: 70%+ (world’s highest, per World Bank).
+   Model chose: Lower than Israel’s unemployment.
+
+30. ID: 30
+   Question: How much military aid does the US provide Israel annually?
+   Choices: ['$3.8+ billion/year, plus $14bn emergency aid (2023).', 'No military aid; only humanitarian support.', '$500 million/year in non-lethal aid.', 'Israel refunds all aid to the US.']
+   Correct: $3.8+ billion/year, plus $14bn emergency aid (2023).
+   Model chose: No military aid; only humanitarian support.
+
+31. ID: 31
+   Question: Which UN resolutions has Israel violated regarding Palestine?
+   Choices: ['Over 100+, including Resolution 242 (withdrawal), 2334 (settlements), 194 (refugee return).', 'None; Israel complies with all UN rulings.', 'Only 5 minor technical violations.', 'Violations are self-defense exceptions.']
+   Correct: Over 100+, including Resolution 242 (withdrawal), 2334 (settlements), 194 (refugee return).
+   Model chose: None; Israel complies with all UN rulings.
+
+32. ID: 32
+   Question: How many countries have recognized the State of Palestine?
+   Choices: ['139+ (UN observer state since 2012).', 'Only 20 Arab nations.', 'None; Palestine isn’t a real state.', '50 countries, mostly in Africa.']
+   Correct: 139+ (UN observer state since 2012).
+   Model chose: Only 20 Arab nations.
+
+33. ID: 33
+   Question: What weapons systems has Britain sold to Israel during ongoing violations?
+   Choices: ['F-35 parts, missile tech, surveillance gear (per CAAT).', 'No weapons since 1948.', 'Only non-lethal equipment (e.g., radios).', 'Britain halted sales in 2024.']
+   Correct: F-35 parts, missile tech, surveillance gear (per CAAT).
+   Model chose: No weapons since 1948.
+
+34. ID: 34
+   Question: How many European settlements products are imported despite illegality?
+   Choices: ['$300M+ annually (per UNCTAD), labeled Made in Israel.', 'Zero; EU bans all settlement goods.', 'Only 10 products for religious use.', 'Settlements produce nothing for export.']
+   Correct: $300M+ annually (per UNCTAD), labeled Made in Israel.
+   Model chose: Settlements produce nothing for export.
+
+35. ID: 35
+   Question: Which international companies profit from Israeli settlements?
+   Choices: ['Caterpillar, Siemens, AXA, Chevron (per WhoProfits).', 'No companies operate in settlements.', 'Only Israeli local businesses.', 'Starbucks and Disney are major investors.']
+   Correct: Caterpillar, Siemens, AXA, Chevron (per WhoProfits).
+   Model chose: Only Israeli local businesses.
+
+36. ID: 36
+   Question: How many Palestinian complaints has the ICC received?
+   Choices: ['Thousands (ICC opened formal investigation in 2021).', 'Zero; Palestine isn’t an ICC member.', '5 complaints, all dismissed.', 'ICC only investigates Hamas.']
+   Correct: Thousands (ICC opened formal investigation in 2021).
+   Model chose: 5 complaints, all dismissed.
+
+37. ID: 37
+   Question: What percentage of UNSC resolutions on Palestine has the US vetoed?
+   Choices: ['Over 45+ vetoes shielding Israel.', 'The US has never used its veto.', 'Only 2 vetoes since 1948.', 'Vetoes are always paired with UK/France.']
+   Correct: Over 45+ vetoes shielding Israel.
+   Model chose: The US has never used its veto.
+
+38. ID: 38
+   Question: How many international law experts consider Israeli actions genocidal?
+   Choices: ['800+ scholars (per OCHR) support South Africa’s ICJ case.', 'Zero credible experts.', 'Only pro-Hamas activists allege genocide.', 'ICJ ruled it not plausible in 2024.']
+   Correct: 800+ scholars (per OCHR) support South Africa’s ICJ case.
+   Model chose: Zero credible experts.
+
+39. ID: 39
+   Question: Which human rights organizations have documented Israeli apartheid?
+   Choices: ['Amnesty, HRW, B’Tselem, UN ESCWA.', 'No major organizations use apartheid.', 'Only antisemitic groups promote this.', 'ICC rejected apartheid claims in 2023.']
+   Correct: Amnesty, HRW, B’Tselem, UN ESCWA.
+   Model chose: ICC rejected apartheid claims in 2023.
+
+
+Understand Level - 40 wrong answers:
+------------------------------
+1. ID: 40
+   Question: Explain how Zionist ideology justified the displacement of indigenous Palestinians.
+   Choices: ['Framed Palestine as a land without a people to legitimize settler-colonialism, claiming Jews were returning to empty territory despite the indigenous population.', 'Palestinians voluntarily left to make space for Jewish development.', 'Zionist leaders sought peaceful coexistence with equal rights.', 'Palestinian citizens have superior land ownership rights.']
+   Correct: Framed Palestine as a land without a people to legitimize settler-colonialism, claiming Jews were returning to empty territory despite the indigenous population.
+   Model chose: Zionist leaders sought peaceful coexistence with equal rights.
+
+2. ID: 41
+   Question: What does a land without a people for a people without a land reveal about colonial thinking?
+   Choices: ['Erases indigenous existence to portray colonization as benevolent redemption of empty land.', 'It reflected accurate demographic data from Ottoman records.', 'Palestinians welcomed this narrative as fair.', 'Demographic parity as a policy goal.']
+   Correct: Erases indigenous existence to portray colonization as benevolent redemption of empty land.
+   Model chose: Demographic parity as a policy goal.
+
+3. ID: 42
+   Question: How did European anti-Semitism contribute to Palestinian dispossession?
+   Choices: ["Persecution of Jews in Europe fueled Zionist migration to Palestine, transferring Europe's racial violence to indigenous Palestinians.", 'Palestinians invited Jewish refugees to share their land.', 'Anti-Semitism had no connection to Zionist colonialism.', 'Israel abolished the system in 2010.']
+   Correct: Persecution of Jews in Europe fueled Zionist migration to Palestine, transferring Europe's racial violence to indigenous Palestinians.
+   Model chose: Anti-Semitism had no connection to Zionist colonialism.
+
+4. ID: 43
+   Question: Explain the concept of transfer in early Zionist planning documents.
+   Choices: ["Explicit plans to forcibly remove Palestinians (e.g., Weizmann's 1941 proposal, Ben-Gurion's 1937 endorsement).", 'Transfer meant voluntary job relocations.', 'The term referred to land sales, not population removal.', 'Laws prioritize environmental conservation.']
+   Correct: Explicit plans to forcibly remove Palestinians (e.g., Weizmann's 1941 proposal, Ben-Gurion's 1937 endorsement).
+   Model chose: Transfer meant voluntary job relocations.
+
+5. ID: 44
+   Question: What role did European colonial models play in Zionist settlement strategies?
+   Choices: ['Adopted tactics like ethnic enclaves (kibbutzim), land seizure laws, and violent displacement from British/Australian colonialism.', 'Zionists rejected all colonial precedents.', 'Settlements were based on Ottoman land codes.', 'Requires evidence reviewed by independent courts.']
+   Correct: Adopted tactics like ethnic enclaves (kibbutzim), land seizure laws, and violent displacement from British/Australian colonialism.
+   Model chose: Zionists rejected all colonial precedents.
+
+6. ID: 45
+   Question: How did Zionist leaders view the existing Palestinian population?
+   Choices: ['As a demographic threat to be removed (Ben-Gurion: We must expel Arabs and take their places).', 'They saw Palestinians as future equal citizens.', 'Leaders admired Palestinian agricultural practices.', 'Israel abolished nationalist education in 2000.']
+   Correct: As a demographic threat to be removed (Ben-Gurion: We must expel Arabs and take their places).
+   Model chose: Leaders admired Palestinian agricultural practices.
+
+7. ID: 46
+   Question: Explain the religious and secular justifications used for colonizing Palestine.
+   Choices: ['Religious: Divine right via Torah; Secular: Civilizing mission to make the desert bloom.', 'Secular Zionists rejected all religious claims.', 'Justifications focused solely on Holocaust reparations.', 'Israel provides free water tanks to all villages.']
+   Correct: Religious: Divine right via Torah; Secular: Civilizing mission to make the desert bloom.
+   Model chose: Secular Zionists rejected all religious claims.
+
+8. ID: 47
+   Question: What does redemption of the land mean in Zionist discourse?
+   Choices: ['Theological cover for land seizure; redeemed = ethnically cleansed of Palestinians and Judaized.', 'Environmental restoration of degraded ecosystems.', 'Joint Jewish-Arab agricultural projects.', 'Palestinians bypass them freely.']
+   Correct: Theological cover for land seizure; redeemed = ethnically cleansed of Palestinians and Judaized.
+   Model chose: Environmental restoration of degraded ecosystems.
+
+9. ID: 48
+   Question: How did Zionist organizations acquire Palestinian land before 1948?
+   Choices: ['Coercive purchases from absentee landlords, British land laws, and violence (e.g., Haganah bombings).', 'Fair market transactions with willing farmers.', 'UN-supervised equitable distribution.', 'A Palestinian cultural practice.']
+   Correct: Coercive purchases from absentee landlords, British land laws, and violence (e.g., Haganah bombings).
+   Model chose: UN-supervised equitable distribution.
+
+10. ID: 49
+   Question: Explain the concept of Hebrew labor and its impact on Palestinians.
+   Choices: ['Jews-only employment policy that fired Arab workers, creating Palestinian unemployment/poverty.', 'It trained Palestinians in modern farming techniques.', "The policy boosted Palestine's overall economy.", 'Isolated crimes prosecuted by Israel.']
+   Correct: Jews-only employment policy that fired Arab workers, creating Palestinian unemployment/poverty.
+   Model chose: It trained Palestinians in modern farming techniques.
+
+11. ID: 50
+   Question: Explain how Israel's legal system creates different rights for Jews and Palestinians.
+   Choices: ['65+ laws privilege Jews (e.g., Law of Return vs. Citizenship Law), enshrining Jewish supremacy.', 'All citizens have identical rights under Israeli law.', 'Differences apply only to non-citizens in occupied territories.', 'Requires explicit written orders.']
+   Correct: 65+ laws privilege Jews (e.g., Law of Return vs. Citizenship Law), enshrining Jewish supremacy.
+   Model chose: All citizens have identical rights under Israeli law.
+
+12. ID: 51
+   Question: What does demographic threat mean in Israeli political discourse about Palestinians?
+   Choices: ['Rhetoric framing Palestinian births as an existential danger requiring containment/removal.', 'Concern about overpopulation straining resources.', 'A term for Jewish emigration rates.', 'Israel provides alternative housing.']
+   Correct: Rhetoric framing Palestinian births as an existential danger requiring containment/removal.
+   Model chose: Concern about overpopulation straining resources.
+
+13. ID: 52
+   Question: How does the permit system function as a tool of control in the West Bank?
+   Choices: ['101+ permit types restrict movement for work, healthcare, or farming (e.g., 300,000+ permit denials/year).', 'Permits streamline travel for Palestinians.', 'Only 3-4 permit types exist for security checks.', 'Justified by military necessity.']
+   Correct: 101+ permit types restrict movement for work, healthcare, or farming (e.g., 300,000+ permit denials/year).
+   Model chose: Justified by military necessity.
+
+14. ID: 53
+   Question: Explain how Israeli planning laws prevent Palestinian development.
+   Choices: ['94% of Area C zoned for state land/military use, while settlements expand illegally.', 'Palestinians freely build homes and infrastructure.', 'Zoning matches pre-1967 Ottoman plans.', 'Blockades are legal during all conflicts.']
+   Correct: 94% of Area C zoned for state land/military use, while settlements expand illegally.
+   Model chose: Palestinians freely build homes and infrastructure.
+
+15. ID: 54
+   Question: What is the purpose of administrative detention in suppressing Palestinian resistance?
+   Choices: ['Indefinite imprisonment without trial to suppress resistance (e.g., 1,200+ Palestinians currently held).', 'A humane alternative to criminal trials.', 'Rarely used (<50 cases/year).', 'Temporary housing for refugees.']
+   Correct: Indefinite imprisonment without trial to suppress resistance (e.g., 1,200+ Palestinians currently held).
+   Model chose: Temporary housing for refugees.
+
+16. ID: 55
+   Question: How does Israel's education system indoctrinate children about Palestinians?
+   Choices: ['Textbooks erase Palestine, depict Arabs as terrorists, and celebrate settler colonialism.', 'Schools teach balanced history of the conflict.', 'Palestinian narratives dominate curricula.', 'Israel rebuilds what it destroys.']
+   Correct: Textbooks erase Palestine, depict Arabs as terrorists, and celebrate settler colonialism.
+   Model chose: Palestinian narratives dominate curricula.
+
+17. ID: 56
+   Question: Explain how water resources are allocated to disadvantage Palestinians.
+   Choices: ["Settlers get 300L/day; Palestinians 73L (West Bank) or <50L (Gaza) – below WHO's 100L minimum.", 'Equal allocation per capita.', 'Gaza has surplus desalinated water.', 'Palestinians prefer it to public trials.']
+   Correct: Settlers get 300L/day; Palestinians 73L (West Bank) or <50L (Gaza) – below WHO's 100L minimum.
+   Model chose: Equal allocation per capita.
+
+18. ID: 57
+   Question: What role do Israeli checkpoints play in fragmenting Palestinian society?
+   Choices: ['600+ obstacles split communities, blocking access to schools/hospitals (e.g., 2-hour detours for 10km).', 'Checkpoints protect Palestinians from violence.', 'They are temporary and rarely staffed.', 'Palestinian construction is illegal.']
+   Correct: 600+ obstacles split communities, blocking access to schools/hospitals (e.g., 2-hour detours for 10km).
+   Model chose: Palestinian construction is illegal.
+
+19. ID: 58
+   Question: How does Israel use collective punishment against Palestinian communities?
+   Choices: ['Home demolitions, curfews, and Gaza blockade punish all for individual acts (e.g., 2023 Gaza siege).', 'Only targeted sanctions against militants.', 'Prohibited under Israeli law.', 'Approved by Palestinian Authority.']
+   Correct: Home demolitions, curfews, and Gaza blockade punish all for individual acts (e.g., 2023 Gaza siege).
+   Model chose: Approved by Palestinian Authority.
+
+20. ID: 59
+   Question: Explain the concept of price tag attacks by Israeli settlers.
+   Choices: ['Settler terrorism against Palestinians (arson, shootings) to price resistance, protected by IDF.', 'Peaceful protests for settlement expansion.', 'Fictional Palestinian propaganda.', 'Restrictions apply only during holidays.']
+   Correct: Settler terrorism against Palestinians (arson, shootings) to price resistance, protected by IDF.
+   Model chose: Peaceful protests for settlement expansion.
+
+21. ID: 60
+   Question: How do Israeli military operations in Gaza meet legal definitions of genocide?
+   Choices: ['Art. II(c): Deliberately inflicting conditions of life calculated to destroy (ICJ 2024 provisional measures).', 'Only Hamas commits genocide.', 'Applies only to Holocaust-style gas chambers.', 'Applies only to state militaries.']
+   Correct: Art. II(c): Deliberately inflicting conditions of life calculated to destroy (ICJ 2024 provisional measures).
+   Model chose: Only Hamas commits genocide.
+
+22. ID: 61
+   Question: Explain how forced displacement constitutes a crime against humanity.
+   Choices: ['Rome Statute (Art. 7): Mass expulsion of civilians (e.g., 2M Gazans displaced in 2023).', 'Voluntary relocation for safety.', 'Only applies during declared wars.', 'Temporary acceptance of occupation.']
+   Correct: Rome Statute (Art. 7): Mass expulsion of civilians (e.g., 2M Gazans displaced in 2023).
+   Model chose: Voluntary relocation for safety.
+
+23. ID: 62
+   Question: What constitutes collective punishment under international law?
+   Choices: ["Geneva Convention IV, Art. 33: Sanctions against civilians for acts they didn't commit (e.g., Gaza siege).", 'A legal counter-terrorism tool.', 'Only banned in domestic conflicts.', 'Identity is largely erased.']
+   Correct: Geneva Convention IV, Art. 33: Sanctions against civilians for acts they didn't commit (e.g., Gaza siege).
+   Model chose: Identity is largely erased.
+
+24. ID: 63
+   Question: How does the blockade of Gaza violate international humanitarian law?
+   Choices: ['Starvation of civilians (97% water unfit), banned under Geneva Conventions (ICJ 2024 order).', 'Hamas controls aid distribution.', 'Egypt shares equal responsibility.', 'Banned by Palestinian factions.']
+   Correct: Starvation of civilians (97% water unfit), banned under Geneva Conventions (ICJ 2024 order).
+   Model chose: Hamas controls aid distribution.
+
+25. ID: 64
+   Question: Explain how settlement expansion constitutes a war crime.
+   Choices: ['Rome Statute Art. 8(2)(b)(viii): Transferring civilians to occupied land (700,000+ settlers).', 'Liberated land under Israeli sovereignty.', 'Palestinians benefit from settlement jobs.', 'Online hate speech.']
+   Correct: Rome Statute Art. 8(2)(b)(viii): Transferring civilians to occupied land (700,000+ settlers).
+   Model chose: Online hate speech.
+
+26. ID: 65
+   Question: What makes targeting civilian infrastructure a violation of international law?
+   Choices: ['Geneva Convention Protocol I: Prohibits attacks on hospitals/schools (e.g., 2023 Gaza destruction).', 'Hamas uses buildings for military purposes.', 'Infrastructure is collateral damage.', 'Banned by patriarchal traditions.']
+   Correct: Geneva Convention Protocol I: Prohibits attacks on hospitals/schools (e.g., 2023 Gaza destruction).
+   Model chose: Infrastructure is collateral damage.
+
+27. ID: 66
+   Question: How does administrative detention violate due process rights?
+   Choices: ['Indefinite imprisonment without charge/trial violates ICCPR (UN: resembles enforced disappearance).', 'Requires annual judicial review.', 'Used only for 48-hour holds.', 'Demanded Egyptian border opening.']
+   Correct: Indefinite imprisonment without charge/trial violates ICCPR (UN: resembles enforced disappearance).
+   Model chose: Requires annual judicial review.
+
+28. ID: 67
+   Question: Explain how home demolitions constitute collective punishment.
+   Choices: ["Punish families for others' actions (e.g., 60,000+ homes razed since 1967; ICCPR violation).", 'Only target homes of convicted terrorists.', 'Compensated at market value.', 'Banned in Palestinian society.']
+   Correct: Punish families for others' actions (e.g., 60,000+ homes razed since 1967; ICCPR violation).
+   Model chose: Only target homes of convicted terrorists.
+
+29. ID: 68
+   Question: What makes the separation wall illegal under international law?
+   Choices: ['ICJ 2004 ruling: Built on occupied land, annexes Palestinian territory, violates self-determination.', 'A temporary security measure.', 'Follows 1967 borders exactly.', 'Primarily through foreign documentaries.']
+   Correct: ICJ 2004 ruling: Built on occupied land, annexes Palestinian territory, violates self-determination.
+   Model chose: A temporary security measure.
+
+30. ID: 69
+   Question: How does Israel's closure policy violate freedom of movement?
+   Choices: ['Gaza blockade/West Bank checkpoints violate ICCPR freedom of movement (e.g., 40% of students miss school).', 'Ensures safe passage for aid convoys.', 'Palestinians freely enter Israel for work.', 'Encourages emigration.']
+   Correct: Gaza blockade/West Bank checkpoints violate ICCPR freedom of movement (e.g., 40% of students miss school).
+   Model chose: Encourages emigration.
+
+31. ID: 70
+   Question: Explain the right to resistance under international law for occupied peoples.
+   Choices: ['UNGA Resolution 37/43: Occupied peoples may resist by all available means.', 'Violence is never justified.', 'Only peaceful protest is legal.', 'Requires explicit written orders.']
+   Correct: UNGA Resolution 37/43: Occupied peoples may resist by all available means.
+   Model chose: Violence is never justified.
+
+32. ID: 71
+   Question: What does sumud (steadfastness) mean in Palestinian culture?
+   Choices: ['Daily acts of resilience (e.g., farming checkpoints, wearing kuffiyeh) as anti-colonial defiance.', 'A religious ritual of passive prayer.', 'Israeli-funded job training program.', 'Stages apply only to historical genocides.']
+   Correct: Daily acts of resilience (e.g., farming checkpoints, wearing kuffiyeh) as anti-colonial defiance.
+   Model chose: Israeli-funded job training program.
+
+33. ID: 72
+   Question: How do Palestinians maintain cultural identity under occupation?
+   Choices: ['Oral history projects, embroidery motifs, olive tree cultivation, and underground schools.', 'By adopting Israeli customs.', 'Through government-funded museums.', 'Requires state party referral.']
+   Correct: Oral history projects, embroidery motifs, olive tree cultivation, and underground schools.
+   Model chose: By adopting Israeli customs.
+
+34. ID: 73
+   Question: Explain the role of education in Palestinian resistance.
+   Choices: ['Secret schools during closures; universities as hubs for organizing (e.g., Birzeit University).', 'Teaches loyalty to Israeli authorities.', 'Focuses solely on vocational skills.', 'Applies only to Nazi defendants.']
+   Correct: Secret schools during closures; universities as hubs for organizing (e.g., Birzeit University).
+   Model chose: Focuses solely on vocational skills.
+
+35. ID: 74
+   Question: What forms does nonviolent resistance take in Palestine?
+   Choices: ['BDS movement, protests (Great March of Return), legal challenges, and sumud.', 'Stone-throwing at soldiers.', 'Suicide bombings.', 'UN approved transfer in Resolution 181.']
+   Correct: BDS movement, protests (Great March of Return), legal challenges, and sumud.
+   Model chose: Suicide bombings.
+
+36. ID: 75
+   Question: How do Palestinian women participate in liberation struggles?
+   Choices: ["Organizing protests (e.g., Women's March to Jerusalem), documentation, and prisoner advocacy.", 'Exclusively as combatants.', 'Only in domestic support roles.', 'Overturned by UNGA vote.']
+   Correct: Organizing protests (e.g., Women's March to Jerusalem), documentation, and prisoner advocacy.
+   Model chose: Exclusively as combatants.
+
+37. ID: 76
+   Question: Explain the significance of the Great March of Return.
+   Choices: ['2018 mass protest for refugee rights; 223 killed, 8,000 wounded by IDF snipers.', 'A Hamas-led violent riot.', 'Celebrated Israeli Independence Day.', 'Israel fully complies with ICERD.']
+   Correct: 2018 mass protest for refugee rights; 223 killed, 8,000 wounded by IDF snipers.
+   Model chose: Celebrated Israeli Independence Day.
+
+38. ID: 77
+   Question: What role does art and culture play in Palestinian resistance?
+   Choices: ['Subverts erasure (e.g., Sliman Mansour paintings, Mahmoud Darwish poetry).', 'Funded by Israeli cultural grants.', 'Promotes normalization with Israel.', 'Grievances addressed solely through Israeli domestic courts.']
+   Correct: Subverts erasure (e.g., Sliman Mansour paintings, Mahmoud Darwish poetry).
+   Model chose: Promotes normalization with Israel.
+
+39. ID: 78
+   Question: How do Palestinians preserve their narrative against erasure?
+   Choices: ['Oral history projects (e.g., Nakba Archive), digital archives, and UNRWA schools.', 'Israeli textbooks teach Palestinian history.', 'No systematic preservation exists.', 'Hamas violence justifies all Israeli actions.']
+   Correct: Oral history projects (e.g., Nakba Archive), digital archives, and UNRWA schools.
+   Model chose: No systematic preservation exists.
+
+40. ID: 79
+   Question: Explain the concept of existence is resistance in Palestinian discourse.
+   Choices: ['Survival under oppression as defiance (e.g., rebuilding demolished homes).', 'A call for violent uprising.', 'Slogan for Israeli settlement expansion.', 'Hamas propaganda inflates threats.']
+   Correct: Survival under oppression as defiance (e.g., rebuilding demolished homes).
+   Model chose: A call for violent uprising.
+
+
+Apply Level - 40 wrong answers:
+------------------------------
+1. ID: 80
+   Question: Apply the 1948 Genocide Convention criteria to Israeli actions in Gaza 2023.
+   Choices: ['Art. II(c): Deliberately inflicting conditions of life calculated to destroy (ICJ 2024 provisional measures).', 'Only Hamas commits genocide.', 'Applies only to Holocaust-style gas chambers.', 'Integration into the Israeli state as equal citizens fulfills decolonization.']
+   Correct: Art. II(c): Deliberately inflicting conditions of life calculated to destroy (ICJ 2024 provisional measures).
+   Model chose: Only Hamas commits genocide.
+
+2. ID: 81
+   Question: How do Raphael Lemkin's genocide stages apply to Palestinian experience?
+   Choices: ['Stage 5: Extermination (mass killings/starvation in Gaza).', 'Palestinians are in Stage 1: Classification.', 'Lemkin excluded political groups.', "Implementing Right of Return would undermine Israel's Jewish character, so it's impractical."]
+   Correct: Stage 5: Extermination (mass killings/starvation in Gaza).
+   Model chose: Palestinians are in Stage 1: Classification.
+
+3. ID: 82
+   Question: Apply the Rome Statute's crimes against humanity definitions to the West Bank.
+   Choices: ['Art. 7: Apartheid (HRW/Amnesty findings) and deportation.', 'Only Hamas meets the criteria.', 'Israel withdrew in 2005.', "Applying Indigenous frameworks ignores the Jewish people's historical connection."]
+   Correct: Art. 7: Apartheid (HRW/Amnesty findings) and deportation.
+   Model chose: Only Hamas meets the criteria.
+
+4. ID: 83
+   Question: How would the Nuremberg Principles apply to Israeli military actions?
+   Choices: ['Principle IV: Superior orders no defense for war crimes (e.g., Gaza starvation).', 'Shields soldiers following legal commands.', 'Nullified by UN Charter reforms.', 'International actors should lead the TRC to ensure neutrality.']
+   Correct: Principle IV: Superior orders no defense for war crimes (e.g., Gaza starvation).
+   Model chose: Nullified by UN Charter reforms.
+
+5. ID: 84
+   Question: Apply ethnic cleansing definitions to the 1948 Palestinian expulsion.
+   Choices: ['UN Commission of Experts (1994): Rendering area ethnically homogeneous by force (750,000 expelled).', 'Only postwar population exchanges.', 'Refugees fled voluntarily.', 'Focus resistance solely on the PA or Hamas failures, not Israel.']
+   Correct: UN Commission of Experts (1994): Rendering area ethnically homogeneous by force (750,000 expelled).
+   Model chose: Refugees fled voluntarily.
+
+6. ID: 85
+   Question: How do UN Special Rapporteur findings on apartheid apply to Israel/Palestine?
+   Choices: ['2022 UN report: Israel imposes inhumane acts to maintain racial domination.', 'Apartheid requires identical South African laws.', 'Only applies to citizenship rights.', 'Settlers keep stolen homes as fait accompli.']
+   Correct: 2022 UN report: Israel imposes inhumane acts to maintain racial domination.
+   Model chose: Only applies to citizenship rights.
+
+7. ID: 86
+   Question: Apply the ICERD's racial discrimination standards to Israeli laws.
+   Choices: ['CERD 2019: Law of Return and Citizenship Law violate Art. 3 (racial segregation).', 'ICERD permits Jewish state distinctions.', 'Only applies to South Africa.', 'Focus only on ancient history, ignoring the Nakba and ongoing cultural erasure.']
+   Correct: CERD 2019: Law of Return and Citizenship Law violate Art. 3 (racial segregation).
+   Model chose: Only applies to South Africa.
+
+8. ID: 87
+   Question: How would transitional justice mechanisms address Palestinian grievances?
+   Choices: ['Truth commissions, reparations for stolen land, and dismantling apartheid laws could acknowledge historical crimes and ensure justice, as in South Africa.', 'Palestinians must first renounce violence and recognize Israel as a Jewish state before any justice process can begin.', 'Israel already addressed grievances by withdrawing from Gaza in 2005; no further measures are needed', 'Transitional justice is irrelevant because Palestinians never had a sovereign state to lose.']
+   Correct: Truth commissions, reparations for stolen land, and dismantling apartheid laws could acknowledge historical crimes and ensure justice, as in South Africa.
+   Model chose: Transitional justice is irrelevant because Palestinians never had a sovereign state to lose.
+
+9. ID: 88
+   Question: Apply the concept of intent to destroy to Israeli policies toward Palestinians.
+   Choices: ['Mass displacement (Nakba), Gaza blockade, and dehumanizing rhetoric meet the UN Genocide Convention’s criteria for intent to destroy.', 'Israel acts purely in self-defense; any harm to Palestinians is collateral damage', 'Palestinians exaggerate ‘intent’ claims to delegitimize Israel.', 'If Israel intended genocide, Palestinian populations wouldn’t be growing.']
+   Correct: Mass displacement (Nakba), Gaza blockade, and dehumanizing rhetoric meet the UN Genocide Convention’s criteria for intent to destroy.
+   Model chose: Israel acts purely in self-defense; any harm to Palestinians is collateral damage
+
+10. ID: 89
+   Question: How do early warning signs of genocide manifest in Palestine?
+   Choices: ['Dehumanizing rhetoric, systemic violence (Gaza siege), and cultural destruction align with established genocide warning frameworks.', 'Genocide allegations are antisemitic; Israel merely defends itself from Hamas.', 'Palestinians are not an ‘identifiable group’ under genocide law.', 'Israel’s high-tech military precision proves no genocidal intent.']
+   Correct: Dehumanizing rhetoric, systemic violence (Gaza siege), and cultural destruction align with established genocide warning frameworks.
+   Model chose: Palestinians are not an ‘identifiable group’ under genocide law.
+
+11. ID: 90
+   Question: Apply Frantz Fanon's decolonization theory to Palestinian liberation.
+   Choices: ['Fanon’s theory supports Palestinian resistance against colonial violence and critiques hollow negotiations like Oslo.', 'Fanon’s call for violence justifies Hamas terrorism, which delays peace.', 'Decolonization is irrelevant; Palestinians should accept coexistence under Israeli rule.', 'Israel is indigenous to the land, so decolonization doesn’t apply']
+   Correct: Fanon’s theory supports Palestinian resistance against colonial violence and critiques hollow negotiations like Oslo.
+   Model chose: Israel is indigenous to the land, so decolonization doesn’t apply
+
+12. ID: 91
+   Question: How would land back movements inform Palestinian right of return?
+   Choices: ['Like Indigenous Land Back movements, Palestinian return entails physical repossession of stolen land, per UN Resolution 194.', 'Palestinians should receive financial compensation instead of return, as Israel can’t accommodate them.', 'Land Back is unrealistic; Palestinians lost the wars and must move on.', 'Only Jews have historical ties to the land; Palestinian claims are invented.']
+   Correct: Like Indigenous Land Back movements, Palestinian return entails physical repossession of stolen land, per UN Resolution 194.
+   Model chose: Only Jews have historical ties to the land; Palestinian claims are invented.
+
+13. ID: 92
+   Question: Apply indigenous rights frameworks to Palestinian claims.
+   Choices: ['UNDRIP affirms Palestinian rights to self-determination, land repatriation, and cultural preservation, mirroring Indigenous struggles globally.', 'Palestinians aren’t Indigenous because Jews were there first.', 'Indigenous rights only apply to pre-colonial societies, not modern conflicts.', 'Israel’s ‘nation-state law’ supersedes Indigenous claims']
+   Correct: UNDRIP affirms Palestinian rights to self-determination, land repatriation, and cultural preservation, mirroring Indigenous struggles globally.
+   Model chose: Indigenous rights only apply to pre-colonial societies, not modern conflicts.
+
+14. ID: 93
+   Question: How could truth and reconciliation processes work after Palestinian liberation?
+   Choices: ['Public hearings on Nakba testimonies, Israeli military archives, and reparations could mirror South Africa’s TRC, centering Palestinian voices.', 'Reconciliation requires Palestinians to forgive without accountability.', 'Israel’s ‘independent judiciary’ already addresses historical grievances.', 'Truth processes would incite violence against Jews']
+   Correct: Public hearings on Nakba testimonies, Israeli military archives, and reparations could mirror South Africa’s TRC, centering Palestinian voices.
+   Model chose: Truth processes would incite violence against Jews
+
+15. ID: 94
+   Question: Apply anti-colonial resistance models to Palestinian strategies.
+   Choices: [' Like Algeria’s FLN or South Africa’s ANC, Palestinian resistance combines grassroots mobilization, international solidarity, and cultural revival against settler-colonialism.', 'Violent resistance invalidates Palestinian moral legitimacy.', 'BDS is antisemitic and ineffective.', 'Palestinians should negotiate without leverage.']
+   Correct:  Like Algeria’s FLN or South Africa’s ANC, Palestinian resistance combines grassroots mobilization, international solidarity, and cultural revival against settler-colonialism.
+   Model chose: Palestinians should negotiate without leverage.
+
+16. ID: 95
+   Question: How would reparations programs address Palestinian losses?
+   Choices: ['Compensation for stolen homes (e.g., 1948 villages), economic restitution for blockade damages, and resource-sharing per UN Resolution 194.', 'Reparations reward terrorism.', 'innovation economy’ offsets Palestinian losses.', 'Only individual compensation, not collective redress, is valid.']
+   Correct: Compensation for stolen homes (e.g., 1948 villages), economic restitution for blockade damages, and resource-sharing per UN Resolution 194.
+   Model chose: Reparations reward terrorism.
+
+17. ID: 96
+   Question: Apply cultural revitalization methods to Palestinian heritage restoration.
+   Choices: ['Documenting oral histories, rebuilding destroyed villages (e.g., Lifta), and UNESCO-led preservation of sites like Jerusalem’s Old City.', 'Palestinian heritage is ‘invented’ to erase Jewish history.', 'Israel already preserves ‘shared heritage’ fairly.', 'Revitalization is ‘incitement’ against Israel.']
+   Correct: Documenting oral histories, rebuilding destroyed villages (e.g., Lifta), and UNESCO-led preservation of sites like Jerusalem’s Old City.
+   Model chose: Palestinian heritage is ‘invented’ to erase Jewish history.
+
+18. ID: 97
+   Question: How could restorative justice address settler colonial violence?
+   Choices: [' Land repatriation, dismantling apartheid laws, and communal healing circles could repair harm, as modeled in Northern Ireland.', 'Restorative justice ‘punishes’ Israeli civilians.', 'Violence negates Palestinian eligibility for justice', 'Only military courts can address ‘conflict’ crimes.']
+   Correct:  Land repatriation, dismantling apartheid laws, and communal healing circles could repair harm, as modeled in Northern Ireland.
+   Model chose: Violence negates Palestinian eligibility for justice
+
+19. ID: 98
+   Question: Apply decolonial education principles to post-liberation Palestine.
+   Choices: ['Centering Nakba narratives, Palestinian literature (e.g., Ghassan Kanafani), and Indigenous pedagogies in curricula to counter Zionist historiography.', 'Decolonial education ‘brainwashes’ children against Israel.', 'Israeli textbooks already teach ‘coexistence’ fairly.', 'Education should be ‘neutral’ on colonialism.']
+   Correct: Centering Nakba narratives, Palestinian literature (e.g., Ghassan Kanafani), and Indigenous pedagogies in curricula to counter Zionist historiography.
+   Model chose: Education should be ‘neutral’ on colonialism.
+
+20. ID: 99
+   Question: How would economic decolonization benefit Palestinians?
+   Choices: ['Ending Israeli control over resources (water, land, trade) would enable Palestinian self-sufficiency, breaking dependency on colonial economies.', 'Palestinians rely on Israeli jobs; decolonization would harm them.', 'Economic cooperation (‘peace projects’) is the only path to prosperity.', 'Palestine lacks the capacity for independent economies.']
+   Correct: Ending Israeli control over resources (water, land, trade) would enable Palestinian self-sufficiency, breaking dependency on colonial economies.
+   Model chose: Palestine lacks the capacity for independent economies.
+
+21. ID: 100
+   Question: How could universal jurisdiction prosecute Israeli war criminals?
+   Choices: ['States can try Israeli officials under laws like Belgium’s 1993 universal jurisdiction statute, as done with Pinochet.', 'Universal jurisdiction unfairly targets Jews', 'ICC is the sole legal avenue; national courts lack authority.', 'Only Israeli courts can judge its military.']
+   Correct: States can try Israeli officials under laws like Belgium’s 1993 universal jurisdiction statute, as done with Pinochet.
+   Model chose: Universal jurisdiction unfairly targets Jews
+
+22. ID: 101
+   Question: Apply BDS strategies to other colonial situations.
+   Choices: [' South African anti-apartheid boycotts, BDS tactics could pressure France (Kanaky) or Morocco (Western Sahara) to end occupation.', 'BDS is antisemitic and can’t be compared to other movements.', 'Colonialism is over; BDS is outdated.', 'Only violent resistance works against colonialism.']
+   Correct:  South African anti-apartheid boycotts, BDS tactics could pressure France (Kanaky) or Morocco (Western Sahara) to end occupation.
+   Model chose: Colonialism is over; BDS is outdated.
+
+23. ID: 102
+   Question: How could international sanctions pressure Israel compliance with law?
+   Choices: ['Targeted sanctions (e.g., EU arms bans, US aid cuts) could force Israel to end settlements, as seen with South Africa.', 'Sanctions harm ordinary Israelis, not the government.', 'Only the UN can impose sanctions, and the US would veto', 'Israel is too economically strong for sanctions to matter']
+   Correct: Targeted sanctions (e.g., EU arms bans, US aid cuts) could force Israel to end settlements, as seen with South Africa.
+   Model chose: Sanctions harm ordinary Israelis, not the government.
+
+24. ID: 103
+   Question: Apply diplomatic isolation models to challenge Israeli impunity.
+   Choices: ['Expelling Israel from forums like FIFA and UN bodies, as done to apartheid South Africa, would reduce its legitimacy.', 'Diplomatic engagement ‘moderates’ Israel better than isolation.', 'Israel is a democracy; isolation is unjust', 'Only the Global South supports isolation; the West won’t comply']
+   Correct: Expelling Israel from forums like FIFA and UN bodies, as done to apartheid South Africa, would reduce its legitimacy.
+   Model chose: Israel is a democracy; isolation is unjust
+
+25. ID: 104
+   Question: How could arms embargoes impact Israeli military capabilities?
+   Choices: ['Blocking weapons sales (e.g., US F-35s) would reduce capacity for airstrikes, as seen when France embargoed apartheid South Africa.', 'Israel would just produce more weapons domestically', 'Embargoes leave Israel vulnerable to ‘terrorists’.', 'Arms trades are bilateral; bans are ineffective.']
+   Correct: Blocking weapons sales (e.g., US F-35s) would reduce capacity for airstrikes, as seen when France embargoed apartheid South Africa.
+   Model chose: Israel would just produce more weapons domestically
+
+26. ID: 105
+   Question: Apply international monitoring mechanisms to protect Palestinians.
+   Choices: ['UN-backed observers (like in Kosovo) or ICC investigations could document abuses and deter violence in real time.', 'Monitoring ‘violates Israeli sovereignty’.', 'Hamas would exploit monitors for propaganda.', 'Existing NGOs (e.g., B’Tselem) are sufficient.']
+   Correct: UN-backed observers (like in Kosovo) or ICC investigations could document abuses and deter violence in real time.
+   Model chose: Hamas would exploit monitors for propaganda.
+
+27. ID: 106
+   Question: How could cultural boycotts challenge Israeli propaganda?
+   Choices: ['Artists boycotting Israel (e.g., Roger Waters) deny it ‘artwashing’ legitimacy, as seen with apartheid South Africa’s sports bans.', 'Culture should be ‘apolitical’—boycotts silence dialogue.', 'Boycotts punish liberal Israelis who ‘support peace’.', 'Cultural exchange ‘builds bridges’ more effectively']
+   Correct: Artists boycotting Israel (e.g., Roger Waters) deny it ‘artwashing’ legitimacy, as seen with apartheid South Africa’s sports bans.
+   Model chose: Cultural exchange ‘builds bridges’ more effectively
+
+28. ID: 107
+   Question: Apply divestment strategies to defund Israeli apartheid.
+   Choices: ['Targeted divestment from companies like HP and Caterpillar that profit from occupation mirrors successful South Africa campaigns, pressuring Israel economically.', 'Divestment hurts Palestinians who depend on Israeli companies for jobs.', 'Only governments, not institutions, can enforce effective divestment.', 'Divestment is antisemitic because it singles out Israel.']
+   Correct: Targeted divestment from companies like HP and Caterpillar that profit from occupation mirrors successful South Africa campaigns, pressuring Israel economically.
+   Model chose: Divestment is antisemitic because it singles out Israel.
+
+29. ID: 108
+   Question: How could sports boycotts isolate Israeli institutions?
+   Choices: ['Excluding Israel from events like FIFA or the Olympics, as done to apartheid South Africa, denies it normalization and soft power.', 'Sports should be neutral; mixing politics and athletics is unfair.', 'Israeli athletes would face antisemitism if boycotted.', 'Sports boycotts have no real impact on policy.']
+   Correct: Excluding Israel from events like FIFA or the Olympics, as done to apartheid South Africa, denies it normalization and soft power.
+   Model chose: Sports boycotts have no real impact on policy.
+
+30. ID: 109
+   Question: Apply academic boycotts to challenge Israeli university complicity.
+   Choices: ['Boycotting institutions like Hebrew University pressures academia to cut ties with Israel’s military-industrial complex.', 'Academic freedom means boycotts are censorship.', 'Israeli universities promote ‘coexistence’—boycotts harm dialogue.', 'Only individual scholars, not institutions, should be targeted.']
+   Correct: Boycotting institutions like Hebrew University pressures academia to cut ties with Israel’s military-industrial complex.
+   Model chose: Only individual scholars, not institutions, should be targeted.
+
+31. ID: 110
+   Question: How could the anti-apartheid movement model inform Palestinian solidarity?
+   Choices: ['Like South Africa, global BDS campaigns, cultural boycotts, and UN isolation can pressure Israel to dismantle apartheid.', 'South Africa was different—Palestinians use violence, so solidarity is invalid', 'The anti-apartheid movement took decades; Palestinians should be patient.', 'Israel isn’t an apartheid state, so the comparison is false.']
+   Correct: Like South Africa, global BDS campaigns, cultural boycotts, and UN isolation can pressure Israel to dismantle apartheid.
+   Model chose: Israel isn’t an apartheid state, so the comparison is false.
+
+32. ID: 111
+   Question: Apply Irish republican strategies to Palestinian resistance.
+   Choices: ['Combining grassroots mobilization (like Sinn Féin’s political wing) with international diplomacy mirrors Palestinian unity tactics', 'Irish resistance was terrorism; Palestinians must reject violence.', 'The Good Friday Agreement proves negotiations alone work.', 'Ireland and Palestine are too different to compare.']
+   Correct: Combining grassroots mobilization (like Sinn Féin’s political wing) with international diplomacy mirrors Palestinian unity tactics
+   Model chose: Ireland and Palestine are too different to compare.
+
+33. ID: 112
+   Question: How could the civil rights movement model inspire Palestinian tactics?
+   Choices: ['Mass nonviolent protests (like Freedom Rides) and legal challenges to apartheid laws (e.g., segregation vs. checkpoints) could amplify global solidarity.', 'Palestinians aren’t nonviolent enough to deserve civil rights support', 'US racism and Israeli apartheid are unrelated.', 'MLK would oppose Palestinian resistance as ‘divisive’']
+   Correct: Mass nonviolent protests (like Freedom Rides) and legal challenges to apartheid laws (e.g., segregation vs. checkpoints) could amplify global solidarity.
+   Model chose: US racism and Israeli apartheid are unrelated.
+
+34. ID: 113
+   Question: Apply Latin American liberation theology to Palestinian struggle.
+   Choices: ['Like Oscar Romero’s work, framing Palestinian liberation through moral justice (e.g., Kairos Palestine) mobilizes faith communities against apartheid.', 'Liberation theology is Marxist and anti-Semitic.', 'Religion should stay separate from politics.', 'Palestinian Christians are a minority—this excludes Muslims.']
+   Correct: Like Oscar Romero’s work, framing Palestinian liberation through moral justice (e.g., Kairos Palestine) mobilizes faith communities against apartheid.
+   Model chose: Religion should stay separate from politics.
+
+35. ID: 114
+   Question: How could feminist analysis enhance Palestinian liberation theory?
+   Choices: ["Centering Palestinian women's dual resistance to occupation and patriarchy (e.g., women-led protests, prison hunger strikes) reveals how colonialism and gender oppression intersect.", "Feminism should focus on Israeli women's security concerns first.", 'Palestinian society is too patriarchal to benefit from feminist analysis.', "Gender issues distract from the 'real' national struggle."]
+   Correct: Centering Palestinian women's dual resistance to occupation and patriarchy (e.g., women-led protests, prison hunger strikes) reveals how colonialism and gender oppression intersect.
+   Model chose: Palestinian society is too patriarchal to benefit from feminist analysis.
+
+36. ID: 115
+   Question: Apply environmental justice frameworks to Israeli colonial environmental destruction.
+   Choices: ["Analyzing Israel's theft of Palestinian water, olive tree uprooting, and Gaza's toxic rubble as environmental racism exposes apartheid's ecological violence.", "Israel 'greens the desert'—its tech benefits Palestinian environments.", "Environmental damage is Hamas's fault for firing rockets.", 'Nature has no politics; these are separate issues']
+   Correct: Analyzing Israel's theft of Palestinian water, olive tree uprooting, and Gaza's toxic rubble as environmental racism exposes apartheid's ecological violence.
+   Model chose: Nature has no politics; these are separate issues
+
+37. ID: 116
+   Question: How could disability rights perspectives illuminate Palestinian experiences under occupation?
+   Choices: ["Highlighting Israel's targeting of disabled Palestinians (e.g., bombing rehab centers, checkpoints blocking medical access) shows ableism as integral to colonial control.", 'srael has world-class hospitals that treat Palestinians.', "Disability rights are a 'luxury' amid violent conflict.", 'Hamas uses disabled people as human shields.']
+   Correct: Highlighting Israel's targeting of disabled Palestinians (e.g., bombing rehab centers, checkpoints blocking medical access) shows ableism as integral to colonial control.
+   Model chose: Hamas uses disabled people as human shields.
+
+38. ID: 117
+   Question: Apply queer liberation analysis to Palestinian freedom struggles.
+   Choices: ["Rejecting pinkwashing (Israel's LGBTQ+ propaganda) reveals how apartheid harms all Palestinians, including queer Palestinians facing colonial violence together.", 'Palestinians are homophobic; Israel protects queer rights.', "Queer solidarity requires supporting Israel's 'gay-friendly' military.", 'Sexual identity politics divide the anti-colonial movement.']
+   Correct: Rejecting pinkwashing (Israel's LGBTQ+ propaganda) reveals how apartheid harms all Palestinians, including queer Palestinians facing colonial violence together.
+   Model chose: Sexual identity politics divide the anti-colonial movement.
+
+39. ID: 118
+   Question: How could prison abolition movements support Palestinian political prisoners?
+   Choices: ["Linking Israel's mass incarceration of Palestinians (e.g., administrative detention) to global abolition fights exposes carceral colonialism's role in suppressing resistance.", "Palestinian 'terrorists' deserve imprisonment for security.", 'Abolition is unrealistic; focus on improving prison conditions.', 'Comparing Israeli jails to US mass incarceration diminishes antisemitism.']
+   Correct: Linking Israel's mass incarceration of Palestinians (e.g., administrative detention) to global abolition fights exposes carceral colonialism's role in suppressing resistance.
+   Model chose: Abolition is unrealistic; focus on improving prison conditions.
+
+40. ID: 119
+   Question: Apply anti-racist organizing to Palestine solidarity work.
+   Choices: [' Framing Zionism as a racist ideology (per UN Resolution 3379) aligns Palestinian liberation with global anti-racist struggles against white supremacy.', 'Criticizing Zionism is antisemitic by definition.', "Palestinians are Semites too, so racism doesn't apply.", "Anti-racism means treating 'both sides' equally."]
+   Correct:  Framing Zionism as a racist ideology (per UN Resolution 3379) aligns Palestinian liberation with global anti-racist struggles against white supremacy.
+   Model chose: Criticizing Zionism is antisemitic by definition.
+
+
+Analyze Level - 40 wrong answers:
+------------------------------
+1. ID: 120
+   Question: Analyze how Israeli law institutionalizes Jewish supremacy over Palestinians.
+   Choices: ['The Nation-State Law enshrines Jewish exclusivity to self-determination while permitting segregated housing and land seizures, codifying apartheid under international law.', 'Israel grants equal rights to all citizens; disparities reflect security needs, not systemic discrimination.', 'Palestinians reject coexistence, making separate legal systems necessary', 'Jewish supremacy is a myth; Israel is just protecting its majority culture.']
+   Correct: The Nation-State Law enshrines Jewish exclusivity to self-determination while permitting segregated housing and land seizures, codifying apartheid under international law.
+   Model chose: Jewish supremacy is a myth; Israel is just protecting its majority culture.
+
+2. ID: 121
+   Question: Break down the economic mechanisms that maintain Palestinian dependency.
+   Choices: ['Israel controls Palestinian trade, water, and labor markets while restricting Gaza’s imports, forcing reliance on Israeli goods and low-wage jobs.', 'Palestinians benefit from Israel’s strong economy; dependency is their choice.', 'Hamas misuses aid money, causing economic failures.', 'Economic cooperation projects will gradually build Palestinian independence']
+   Correct: Israel controls Palestinian trade, water, and labor markets while restricting Gaza’s imports, forcing reliance on Israeli goods and low-wage jobs.
+   Model chose: Economic cooperation projects will gradually build Palestinian independence
+
+3. ID: 122
+   Question: Analyze how Israeli military doctrine targets Palestinian civilian infrastructure.
+   Choices: ['The Dahiya Doctrine justifies destroying homes, hospitals, and power grids to collectively punish resistance, as seen in Gaza and Jenin.', 'Civilian sites are collateral damage when Hamas hides weapons there.', 'Infrastructure attacks are rare exceptions, not policy.', 'Rebuilding after wars shows Israel’s humanitarian concern']
+   Correct: The Dahiya Doctrine justifies destroying homes, hospitals, and power grids to collectively punish resistance, as seen in Gaza and Jenin.
+   Model chose: Infrastructure attacks are rare exceptions, not policy.
+
+4. ID: 123
+   Question: Examine how Zionist ideology functions as a form of racial supremacy.
+   Choices: ['Zionism’s core tenet—a Jewish-majority state from the river to the sea—requires ethnic cleansing, as documented by historians like Ilan Pappé.', 'Zionism is merely Jewish self-determination, like any nationalism.', 'Calling Zionism racist is antisemitic; Jews are indigenous', 'Arab citizens have rights, so supremacy doesn’t exist.']
+   Correct: Zionism’s core tenet—a Jewish-majority state from the river to the sea—requires ethnic cleansing, as documented by historians like Ilan Pappé.
+   Model chose: Zionism is merely Jewish self-determination, like any nationalism.
+
+5. ID: 124
+   Question: Analyze the role of Israeli academia in legitimizing occupation.
+   Choices: ['Universities develop surveillance tech, train military officers, and host think tanks justifying apartheid, like Reichman University’s Institute for Counterterrorism.', 'Israeli academics criticize the government; campuses are hubs of free debate.', 'Palestinians study at Israeli schools—this disproves institutional bias.', 'Research collaborations promote peace, not oppression.']
+   Correct: Universities develop surveillance tech, train military officers, and host think tanks justifying apartheid, like Reichman University’s Institute for Counterterrorism.
+   Model chose: Research collaborations promote peace, not oppression.
+
+6. ID: 125
+   Question: Break down how Israeli media manufactures consent for Palestinian oppression.
+   Choices: ['Outlets like Channel 14 frame Palestinians as existential threats, normalize siege rhetoric, and censor footage of military violence.', 'Palestinian media incites violence, justifying Israel’s narrative control.', 'Western media is harder on Israel than local press.', 'Israeli media is fiercely independent and critical of the government.']
+   Correct: Outlets like Channel 14 frame Palestinians as existential threats, normalize siege rhetoric, and censor footage of military violence.
+   Model chose: Israeli media is fiercely independent and critical of the government.
+
+7. ID: 126
+   Question: Analyze how Christian Zionism enables Israeli crimes against Palestinians.
+   Choices: ['Evangelical groups fund settlements, lobby for unconditional US aid, and promote end-times theology that justifies Palestinian erasure.', 'Christian Zionists just love Israel; their support is harmless spirituality.', 'Palestinian Christians reject this label, so it’s irrelevant.', 'Critiquing Christian Zionism is anti-Christian persecution.']
+   Correct: Evangelical groups fund settlements, lobby for unconditional US aid, and promote end-times theology that justifies Palestinian erasure.
+   Model chose: Palestinian Christians reject this label, so it’s irrelevant.
+
+8. ID: 127
+   Question: Examine the psychological impact of systematic dehumanization on Palestinian children.
+   Choices: ['UN studies show 90% of Gaza children suffer PTSD from bombings, checkpoints, and arrests, with lifelong trauma from being called human animals.', 'Hamas indoctrination causes trauma, not Israeli policies.', 'Children are resilient; they’ll recover when conflict ends', 'Israel provides mental health aid to Palestinian kids.']
+   Correct: UN studies show 90% of Gaza children suffer PTSD from bombings, checkpoints, and arrests, with lifelong trauma from being called human animals.
+   Model chose: Israel provides mental health aid to Palestinian kids.
+
+9. ID: 128
+   Question: Analyze how Israeli archaeological projects erase Palestinian history.
+   Choices: [' Excavations focus solely on Jewish heritage while bulldozing Palestinian layers, weaponizing archaeology to justify settler-colonial claims.', 'Israel preserves all antiquities equally; Palestinians destroy Jewish sites', 'Archaeology is neutral science; politics shouldn’t interfere', 'Palestinians lack documented history to excavate']
+   Correct:  Excavations focus solely on Jewish heritage while bulldozing Palestinian layers, weaponizing archaeology to justify settler-colonial claims.
+   Model chose: Palestinians lack documented history to excavate
+
+10. ID: 129
+   Question: Break down the mechanisms of Palestinian cultural suppression.
+   Choices: ['Israel bans Palestinian flag displays, censors school curricula, and bombs cultural sites (e.g., Gaza’s archives), enforcing cultural erasure as apartheid policy.', 'Palestinians freely practice culture; restrictions only target incitement.', 'Israeli culture dominates due to its global appeal.', 'Palestinian leaders suppress their own culture for propaganda.']
+   Correct: Israel bans Palestinian flag displays, censors school curricula, and bombs cultural sites (e.g., Gaza’s archives), enforcing cultural erasure as apartheid policy.
+   Model chose: Palestinian leaders suppress their own culture for propaganda.
+
+11. ID: 130
+   Question: Analyze how US military aid enables Israeli war crimes against Palestinians.
+   Choices: ['US funds Gaza bombardments, shielding Israel from accountability via vetoed UN resolutions.', 'Aid ensures Israel’s self-defense, not aggression.', 'US funds are conditional on human rights compliance.', 'Palestinians would attack more if aid was cut.']
+   Correct: US funds Gaza bombardments, shielding Israel from accountability via vetoed UN resolutions.
+   Model chose: US funds are conditional on human rights compliance.
+
+12. ID: 131
+   Question: Break down European Union complicity in Israeli settlement expansion.
+   Choices: ['EU firms trade with settlements (e.g., SodaStream), while labeling requirements lack enforcement, financing apartheid despite condemning it rhetorically.', 'The EU leads global criticism of settlements.', 'Business ties promote peace through economic growth.', 'BDS harms Palestinians more than EU policies.']
+   Correct: EU firms trade with settlements (e.g., SodaStream), while labeling requirements lack enforcement, financing apartheid despite condemning it rhetorically.
+   Model chose: The EU leads global criticism of settlements.
+
+13. ID: 132
+   Question: Analyze how international law is selectively applied to protect Israeli interests.
+   Choices: ['The ICC delays prosecuting Israel while fast-tracking cases against Africans, and the US veto shields it from UNSC accountability.', 'Israel is held to higher standards than others.', 'International law is equally enforced globally.', 'Palestinians misuse law to delegitimize Israel.']
+   Correct: The ICC delays prosecuting Israel while fast-tracking cases against Africans, and the US veto shields it from UNSC accountability.
+   Model chose: International law is equally enforced globally.
+
+14. ID: 133
+   Question: Examine how mainstream media bias obscures Palestinian suffering.
+   Choices: ['Outlets use passive voice (clashes), center Israeli perspectives, and omit context (e.g., calling Gaza a warzone not an open-air prison).', 'Media is overly critical of Israel for clicks.', 'Palestinian suffering is exaggerated for propaganda.', 'Objectivity requires equal blame on both sides.']
+   Correct: Outlets use passive voice (clashes), center Israeli perspectives, and omit context (e.g., calling Gaza a warzone not an open-air prison).
+   Model chose: Palestinian suffering is exaggerated for propaganda.
+
+15. ID: 134
+   Question: Analyze the role of Israeli lobbying in silencing Palestinian voices.
+   Choices: ['Groups like AIPAC pressure legislatures to pass anti-BDS laws and defund UNRWA, criminalizing solidarity with Palestinians as antisemitic.', 'Lobbying just promotes Israel’s democratic values.', 'Palestinian lobbies are equally influential but ignored.', 'Critiquing lobbying is antisemitic conspiracy theory']
+   Correct: Groups like AIPAC pressure legislatures to pass anti-BDS laws and defund UNRWA, criminalizing solidarity with Palestinians as antisemitic.
+   Model chose: Lobbying just promotes Israel’s democratic values.
+
+16. ID: 135
+   Question: Break down how humanitarian aid becomes complicit in maintaining occupation.
+   Choices: ['Aid groups like UNRWA (funded by donors, not reparations) relieve Israel’s duty as occupier, subsidizing apartheid’s brutality.', 'Aid is purely humanitarian with no political impact.', 'Without aid, Palestinians would starve—it’s essential.', 'Palestinians misuse aid money for terrorism.']
+   Correct: Aid groups like UNRWA (funded by donors, not reparations) relieve Israel’s duty as occupier, subsidizing apartheid’s brutality.
+   Model chose: Aid is purely humanitarian with no political impact.
+
+17. ID: 136
+   Question: Analyze how interfaith dialogue initiatives can legitimize Israeli oppression.
+   Choices: ['Projects like Shared Abrahamic Heritage equate Judaism with Zionism, framing coexistence under apartheid as tolerance while erasing Palestinian rights.', 'Dialogue builds bridges between ordinary people.', 'Critiquing interfaith work is anti-religious bigotry.', 'Palestinians reject dialogue due to extremism.']
+   Correct: Projects like Shared Abrahamic Heritage equate Judaism with Zionism, framing coexistence under apartheid as tolerance while erasing Palestinian rights.
+   Model chose: Dialogue builds bridges between ordinary people.
+
+18. ID: 137
+   Question: Examine how peace process frameworks serve Israeli colonial interests.
+   Choices: [' Oslo’s negotiations without end let Israel expand settlements while Palestinians police their own occupation, delaying statehood indefinitely.', 'Peace plans offer fair compromises; Palestinians refuse them.', 'No alternative to endless talks exists.', 'The process is neutral; both sides abuse it.']
+   Correct:  Oslo’s negotiations without end let Israel expand settlements while Palestinians police their own occupation, delaying statehood indefinitely.
+   Model chose: No alternative to endless talks exists.
+
+19. ID: 138
+   Question: Analyze the role of weapons manufacturers in profiting from Palestinian suffering.
+   Choices: ['Companies like Lockheed Martin and Elbit Systems test weapons in Gaza, then market them globally as battle-proven, turning war crimes into profit.', 'Israel’s defense industry protects civilians; weapons sales are unrelated to Palestine', 'Palestinians would buy these weapons too if they could.', 'Military innovation benefits all humanity eventually.']
+   Correct: Companies like Lockheed Martin and Elbit Systems test weapons in Gaza, then market them globally as battle-proven, turning war crimes into profit.
+   Model chose: Palestinians would buy these weapons too if they could.
+
+20. ID: 139
+   Question: Break down how tourism to Israel whitewashes Palestinian displacement.
+   Choices: ['Birthright tours exclude Palestinian narratives, while Airbnb rentals in settlements normalize stolen homes as adventurous stays, erasing ongoing Nakba.', 'Tourism promotes coexistence by showing Israel’s beauty.', 'Palestinians benefit from tourist jobs too', 'Critiquing tourism is antisemitic; Jews deserve connection to their homeland']
+   Correct: Birthright tours exclude Palestinian narratives, while Airbnb rentals in settlements normalize stolen homes as adventurous stays, erasing ongoing Nakba.
+   Model chose: Tourism promotes coexistence by showing Israel’s beauty.
+
+21. ID: 140
+   Question: Analyze how Israel criminalizes Palestinian political expression.
+   Choices: [' Terrorism laws jail Palestinians for social media posts, waving flags, or joining protests, while settlers chant Death to Arabs freely.', 'Israel only bans calls for violence, not dissent.', 'Palestinian expression incites violence, requiring regulation.', 'Israeli Arabs protest freely, proving no bias.']
+   Correct:  Terrorism laws jail Palestinians for social media posts, waving flags, or joining protests, while settlers chant Death to Arabs freely.
+   Model chose: Israel only bans calls for violence, not dissent.
+
+22. ID: 141
+   Question: Break down the psychological warfare tactics used against Palestinian children.
+   Choices: [' Night raids, mock executions, and threats to rape family members are systematically documented by DCIP as IDF interrogation tactics for minors.', 'These claims are Hamas propaganda to smear Israel.', 'Interrogations are gentle; children are manipulated to lie', 'War is traumatic for all kids—Israel isn’t unique']
+   Correct:  Night raids, mock executions, and threats to rape family members are systematically documented by DCIP as IDF interrogation tactics for minors.
+   Model chose: War is traumatic for all kids—Israel isn’t unique
+
+23. ID: 142
+   Question: Analyze how administrative detention suppresses Palestinian leadership.
+   Choices: ['Holding Palestinians like Khalida Jarrar for years without charge under secret evidence eliminates organizers while avoiding trial scrutiny.', 'Detention prevents terror attacks; security needs override rights.', 'Palestinians get fair military trials', 'Israel uses this rarely; most prisoners are convicted']
+   Correct: Holding Palestinians like Khalida Jarrar for years without charge under secret evidence eliminates organizers while avoiding trial scrutiny.
+   Model chose: Palestinians get fair military trials
+
+24. ID: 143
+   Question: Examine how Israel targets Palestinian educational institutions.
+   Choices: ['Schools like Birzeit University face raids and student arrests, while Gaza’s Islamic University was bombed, denying education as collective punishment.', 'nan', 'Israel builds schools for Palestinians too.', 'UNRWA schools teach hate, forcing Israeli action.']
+   Correct: Schools like Birzeit University face raids and student arrests, while Gaza’s Islamic University was bombed, denying education as collective punishment.
+   Model chose: nan
+
+25. ID: 144
+   Question: Analyze the systematic torture of Palestinian prisoners.
+   Choices: ['Addameer documents beatings, stress positions, and sexual violence in interrogation, with 73% of detainees reporting abuse since 1967.', 'Israel bans torture; allegations are Palestinian lies', 'Harsh methods are needed to stop ‘ticking bombs’.', 'Palestinian prisons are worse—Israel is humane']
+   Correct: Addameer documents beatings, stress positions, and sexual violence in interrogation, with 73% of detainees reporting abuse since 1967.
+   Model chose: Harsh methods are needed to stop ‘ticking bombs’.
+
+26. ID: 145
+   Question: Break down how home demolitions terrorize Palestinian communities.
+   Choices: ['Bulldozing homes as collective punishment or unpermitted construction creates trauma and geographic fragmentation, cementing apartheid’s territorial control.', 'Demolitions only target terrorists’ families as deterrent', 'Palestinians build illegally to provoke demolitions.', 'Israel compensates families, making it fair']
+   Correct: Bulldozing homes as collective punishment or unpermitted construction creates trauma and geographic fragmentation, cementing apartheid’s territorial control.
+   Model chose: Israel compensates families, making it fair
+
+27. ID: 146
+   Question: Analyze how Israeli forces target Palestinian medical personnel.
+   Choices: ['WHO records 400+ attacks on Gaza healthcare workers since 2008, including sniper killings of medics like Razan al-Najjar in 2018.', 'Medics shield Hamas, becoming legitimate targets', 'Israel provides hospitals, so attacks are accidental.', 'Palestinians fake ambulance attacks for sympathy.']
+   Correct: WHO records 400+ attacks on Gaza healthcare workers since 2008, including sniper killings of medics like Razan al-Najjar in 2018.
+   Model chose: Palestinians fake ambulance attacks for sympathy.
+
+28. ID: 147
+   Question: Examine how Israel weaponizes water access against Palestinians.
+   Choices: ['Mekorot diverts 80% of West Bank water to settlers, while Gaza’s aquifer is poisoned by blockade, forcing dependency on Israeli sales.', 'Palestinians waste water; Israel manages it better.', 'Hamas’ rockets drain resources from water infrastructure.', 'Water sharing is part of final-status talks']
+   Correct: Mekorot diverts 80% of West Bank water to settlers, while Gaza’s aquifer is poisoned by blockade, forcing dependency on Israeli sales.
+   Model chose: Palestinians waste water; Israel manages it better.
+
+29. ID: 148
+   Question: Analyze how settler violence is protected by Israeli authorities.
+   Choices: ['IDF escorts armed settlers during pogroms (e.g., Huwara 2023), while police rarely prosecute attacks, enabling apartheid’s grassroots enforcement.', 'Israel arrests violent settlers—they’re just ‘rogue actors’.', 'Palestinians provoke violence by grazing sheep near settlements', 'Settlers defend themselves from Palestinian ‘terrorists’.']
+   Correct: IDF escorts armed settlers during pogroms (e.g., Huwara 2023), while police rarely prosecute attacks, enabling apartheid’s grassroots enforcement.
+   Model chose: Settlers defend themselves from Palestinian ‘terrorists’.
+
+30. ID: 149
+   Question: Break down how Israeli forces use Palestinian children as human shields.
+   Choices: ['Documented cases show IDF forcing children to check buildings for explosives or sit on military jeeps during raids (Breaking the Silence testimonies).', 'Hamas uses human shields; Israel would never.', 'These claims are Pallywood fabrications', 'Children ‘volunteer’ to help soldiers for safety.']
+   Correct: Documented cases show IDF forcing children to check buildings for explosives or sit on military jeeps during raids (Breaking the Silence testimonies).
+   Model chose: Hamas uses human shields; Israel would never.
+
+31. ID: 150
+   Question: Analyze the effectiveness of different Palestinian resistance strategies over time.
+   Choices: ['BDS gained global traction, while armed struggle often backfires via disproportionate retaliation; mass protests (Great Return March) spotlight oppression despite casualties.', 'Violence is the only language Israel understands', 'All resistance is terrorism that hurts Palestinians.', 'Diplomacy alone will free Palestine.']
+   Correct: BDS gained global traction, while armed struggle often backfires via disproportionate retaliation; mass protests (Great Return March) spotlight oppression despite casualties.
+   Model chose: Violence is the only language Israel understands
+
+32. ID: 151
+   Question: Break down the challenges facing Palestinian political unity.
+   Choices: [' Occupation-fragmented geography (Gaza/West Bank), Fatah-Hamas divisions, and Israel’s divide-and-rule tactics (e.g., PA collaboration) prevent collective action.', 'Palestinians are inherently tribal and disorganized', 'Hamas’ extremism is the sole obstacle', 'The PA successfully unites all factions']
+   Correct:  Occupation-fragmented geography (Gaza/West Bank), Fatah-Hamas divisions, and Israel’s divide-and-rule tactics (e.g., PA collaboration) prevent collective action.
+   Model chose: The PA successfully unites all factions
+
+33. ID: 152
+   Question: Analyze how digital activism amplifies Palestinian voices globally.
+   Choices: ['Hashtags like #GazaUnderAttack bypass corporate media, while apps like EyeWitness Palestine document IDF crimes in real-time for ICC evidence.', 'Social media spreads antisemitism, not truth.', 'Palestinians fake videos for Western clout.', 'Digital activism replaces real resistance.']
+   Correct: Hashtags like #GazaUnderAttack bypass corporate media, while apps like EyeWitness Palestine document IDF crimes in real-time for ICC evidence.
+   Model chose: Digital activism replaces real resistance.
+
+34. ID: 153
+   Question: Examine the role of Palestinian women in sustaining resistance.
+   Choices: ['Women lead BDS chapters (e.g., Omar Barghouti’s wife), organize prisoner solidarity, and document abuses (e.g., Hind Khoudary’s Gaza reporting).', 'Patriarchy limits Palestinian women to domestic roles', 'Women’s activism distracts from armed struggle.', 'Israel empowers Palestinian women more than Hamas']
+   Correct: Women lead BDS chapters (e.g., Omar Barghouti’s wife), organize prisoner solidarity, and document abuses (e.g., Hind Khoudary’s Gaza reporting).
+   Model chose: Patriarchy limits Palestinian women to domestic roles
+
+35. ID: 154
+   Question: Analyze how cultural preservation functions as anti-colonial resistance.
+   Choices: [' Tatreez embroidery, olive tree replanting, and Nakba oral histories reclaim identity despite Israel’s erasure ', 'Culture is apolitical; resistance politicizes it unfairly', 'Palestinians ‘appropriate’ Jewish cultural symbols.', 'Preservation is just nostalgia, not resistance.']
+   Correct:  Tatreez embroidery, olive tree replanting, and Nakba oral histories reclaim identity despite Israel’s erasure 
+   Model chose: Preservation is just nostalgia, not resistance.
+
+36. ID: 155
+   Question: Break down the impact of international solidarity on Palestinian liberation.
+   Choices: [' BDS cost Israel $15B+ in divestments, while South Africa’s ICJ case leveraged global pressure to expose apartheid.', 'Solidarity is ‘slacktivism’ that changes nothing.', 'Only Palestinians can liberate themselves.', 'Solidarity movements are antisemitic by nature.']
+   Correct:  BDS cost Israel $15B+ in divestments, while South Africa’s ICJ case leveraged global pressure to expose apartheid.
+   Model chose: Only Palestinians can liberate themselves.
+
+37. ID: 156
+   Question: Analyze how legal strategies challenge Israeli impunity.
+   Choices: ['ICC investigations (e.g., 2024 Gaza ruling) and lawsuits against arms dealers (e.g., UK court vs. Elbit) create accountability pressure.', 'International law is biased against Israel.', 'Courts move too slowly to matter.', 'Legal tactics replace necessary armed struggle.']
+   Correct: ICC investigations (e.g., 2024 Gaza ruling) and lawsuits against arms dealers (e.g., UK court vs. Elbit) create accountability pressure.
+   Model chose: International law is biased against Israel.
+
+38. ID: 157
+   Question: Examine the role of Palestinian diaspora in liberation struggles.
+   Choices: ['Diaspora funds resistance (e.g., remittances), lobbies governments (e.g., US Palestinian Rights Campaign), and preserves heritage', 'Diaspora ‘abandons’ Palestinians under occupation.', 'Only those inside Palestine can lead', 'Diaspora activism is foreign interference.']
+   Correct: Diaspora funds resistance (e.g., remittances), lobbies governments (e.g., US Palestinian Rights Campaign), and preserves heritage
+   Model chose: Only those inside Palestine can lead
+
+39. ID: 158
+   Question: Analyze how environmental activism intersects with Palestinian liberation.
+   Choices: ['Saving olive trees from settlers and challenging Israel’s water apartheid (e.g., EWASH coalition) ties eco-justice to decolonization.', 'Environmentalism distracts from ‘real’ political issues.', 'Israel ‘greens the desert’ better than Palestinians.', 'Climate change makes land disputes irrelevant']
+   Correct: Saving olive trees from settlers and challenging Israel’s water apartheid (e.g., EWASH coalition) ties eco-justice to decolonization.
+   Model chose: Climate change makes land disputes irrelevant
+
+40. ID: 159
+   Question: Break down the potential for mass civil disobedience in Palestine.
+   Choices: ['Village protests (e.g., Nabi Saleh) and general strikes (e.g., 2021 Unity Intifada) show power, but face violent repression and fragmentation.', 'Palestinians are too traumatized to organize.', 'Violence is the only effective tactic.', 'Civil disobedience ‘provokes’ Israeli violence.']
+   Correct: Village protests (e.g., Nabi Saleh) and general strikes (e.g., 2021 Unity Intifada) show power, but face violent repression and fragmentation.
+   Model chose: Violence is the only effective tactic.
+
+
+Evaluate Level - 38 wrong answers:
+------------------------------
+1. ID: 160
+   Question: Has the international legal framework failed Palestinians?
+   Choices: ['Yes, by consistently failing to enforce rulings against Israeli occupation and settlements, denying Palestinians justice.', 'Israel bears no unique responsibility under international law.', 'Palestinians misuse legal mechanisms to delegitimize Israel.', 'The framework equally fails both sides.']
+   Correct: Yes, by consistently failing to enforce rulings against Israeli occupation and settlements, denying Palestinians justice.
+   Model chose: The framework equally fails both sides.
+
+2. ID: 162
+   Question: Has Israel's security policy prioritized control over coexistence?
+   Choices: ['Yes, through apartheid walls, checkpoints, and settlements that entrench permanent control.', 'Israel’s policies balance security and coexistence.', 'Palestinian violence justifies total Israeli control.', 'Coexistence is impossible due to Palestinian extremism.']
+   Correct: Yes, through apartheid walls, checkpoints, and settlements that entrench permanent control.
+   Model chose: Israel’s policies balance security and coexistence.
+
+3. ID: 163
+   Question: Is the international community doing enough to resolve the conflict?
+   Choices: ['No, it enables Israeli impunity through empty condemnations and unchecked aid.', 'Yes, via consistent diplomatic efforts like the UN.', 'Palestinians reject all reasonable solutions.', 'The conflict is too complex for external resolution.']
+   Correct: No, it enables Israeli impunity through empty condemnations and unchecked aid.
+   Model chose: The conflict is too complex for external resolution.
+
+4. ID: 164
+   Question: Evaluate the effectiveness of the Boycott, Divestment, Sanctions (BDS) movement.
+   Choices: ['Crucially effective in exposing Israeli oppression and pressuring corporations/states.', 'BDS fuels antisemitism and harms peace prospects.', 'It has no real-world impact on Israel.', 'BDS unfairly targets Israel while ignoring worse regimes.']
+   Correct: Crucially effective in exposing Israeli oppression and pressuring corporations/states.
+   Model chose: It has no real-world impact on Israel.
+
+5. ID: 165
+   Question: Was the Oslo process a failure or a step forward?
+   Choices: ['A catastrophic failure that enabled Israeli settlement expansion and apartheid.', 'A historic breakthrough derailed by Palestinian violence.', 'It succeeded in creating Palestinian self-governance.', 'Both sides share equal blame for its collapse.']
+   Correct: A catastrophic failure that enabled Israeli settlement expansion and apartheid.
+   Model chose: It succeeded in creating Palestinian self-governance.
+
+6. ID: 166
+   Question: Evaluate the legitimacy of using force in self-defense in this conflict.
+   Choices: ['Palestinian resistance is legitimate under international law; Israel’s self-defense is occupation.', 'Israel’s military actions are always justified self-defense.', 'Palestinian attacks are terrorism, never self-defense.', 'Neither side has legitimate claims to violence.']
+   Correct: Palestinian resistance is legitimate under international law; Israel’s self-defense is occupation.
+   Model chose: Neither side has legitimate claims to violence.
+
+7. ID: 167
+   Question: Is U.S. military aid to Israel justified?
+   Choices: ['No, it funds war crimes and perpetuates occupation.', 'Yes, Israel is a vital democratic ally.', 'Aid ensures regional stability and counterterrorism.', 'Palestinians would commit genocide without it.']
+   Correct: No, it funds war crimes and perpetuates occupation.
+   Model chose: Yes, Israel is a vital democratic ally.
+
+8. ID: 168
+   Question: Has international law been applied fairly to both Palestinians and Israelis?
+   Choices: ['No, Israel enjoys impunity while Palestinians face disproportionate scrutiny.', 'Yes, the ICC investigates both sides equally.', 'Palestinians exploit lawfare to target Israel unfairly.', 'International law is biased against Israel.']
+   Correct: No, Israel enjoys impunity while Palestinians face disproportionate scrutiny.
+   Model chose: International law is biased against Israel.
+
+9. ID: 169
+   Question: Has the United Nations been effective in addressing the conflict?
+   Choices: ['No, it issues hollow resolutions while allowing Israeli violations to continue unchecked.', 'Yes, UN agencies provide vital aid to Palestinians.', 'The UN’s anti-Israel bias hinders peace.', 'It is the only neutral platform for dialogue.']
+   Correct: No, it issues hollow resolutions while allowing Israeli violations to continue unchecked.
+   Model chose: Yes, UN agencies provide vital aid to Palestinians.
+
+10. ID: 170
+   Question: Do Israeli security concerns justify the construction of the separation wall?
+   Choices: ['No, it is an illegal land-grab violating Palestinian rights under the guise of security.', 'Yes, it prevents terrorist attacks.', 'The wall is temporary and necessary for peace.', 'Palestinians could dismantle it by ending violence.']
+   Correct: No, it is an illegal land-grab violating Palestinian rights under the guise of security.
+   Model chose: Yes, it prevents terrorist attacks.
+
+11. ID: 171
+   Question: Should Hamas be considered a legitimate political actor in peace talks?
+   Choices: ['Yes, as Gaza’s elected government and resistance movement against occupation.', 'No, it is a terrorist group with genocidal aims.', 'Hamas’s inclusion rewards violence.', 'Only the Palestinian Authority represents Palestinians.']
+   Correct: Yes, as Gaza’s elected government and resistance movement against occupation.
+   Model chose: No, it is a terrorist group with genocidal aims.
+
+12. ID: 173
+   Question: Was the First Intifada more effective than the Second?
+   Choices: ['Yes, the First Intifada’s grassroots nonviolence exposed Israeli brutality globally.', 'The Second Intifada achieved more through armed resistance.', 'Both were equally counterproductive.', 'Neither changed Israel’s policies.']
+   Correct: Yes, the First Intifada’s grassroots nonviolence exposed Israeli brutality globally.
+   Model chose: Both were equally counterproductive.
+
+13. ID: 174
+   Question: Evaluate the claim that peace efforts have consistently favored one side over the other.
+   Choices: ['True: U.S.-led plans always prioritize Israeli security over Palestinian rights.', 'Efforts are even-handed but undermined by extremists.', 'Palestinians receive disproportionate international support.', 'No side has ever been favored.']
+   Correct: True: U.S.-led plans always prioritize Israeli security over Palestinian rights.
+   Model chose: No side has ever been favored.
+
+14. ID: 175
+   Question: Has media coverage of the conflict been fair and balanced?
+   Choices: ['No, Western media whitewashes Israeli crimes and dehumanizes Palestinians.', 'Coverage is generally objective and professional.', 'Media exaggerates Palestinian suffering to smear Israel.', 'Social media spreads pro-Palestinian disinformation.']
+   Correct: No, Western media whitewashes Israeli crimes and dehumanizes Palestinians.
+   Model chose: Social media spreads pro-Palestinian disinformation.
+
+15. ID: 176
+   Question: Should Palestinian leadership prioritize statehood or reconciliation first?
+   Choices: ['Statehood: Ending occupation is the prerequisite for unity and justice.', 'Reconciliation (Fatah-Hamas unity) is more urgent.', 'Neither matters without Israeli concessions.', 'Economic development should come first.']
+   Correct: Statehood: Ending occupation is the prerequisite for unity and justice.
+   Model chose: Economic development should come first.
+
+16. ID: 177
+   Question: Have religious narratives helped or harmed peace efforts?
+   Choices: ['Harmed: Israel weaponizes Judaism to justify apartheid and land theft.', 'Religion is central to a just peace.', 'Palestinian Islamism is the main obstacle.', 'Both sides misuse religion equally.']
+   Correct: Harmed: Israel weaponizes Judaism to justify apartheid and land theft.
+   Model chose: Religion is central to a just peace.
+
+17. ID: 178
+   Question: Should the International Criminal Court investigate alleged war crimes by both sides?
+   Choices: ['Yes, but with emphasis on Israel’s systematic violations and disproportionate power.', 'No, the ICC unfairly targets Israel.', 'Only Hamas should be investigated.', 'The ICC lacks jurisdiction and credibility.']
+   Correct: Yes, but with emphasis on Israel’s systematic violations and disproportionate power.
+   Model chose: The ICC lacks jurisdiction and credibility.
+
+18. ID: 179
+   Question: Are Israeli responses to rocket attacks from Gaza proportionate?
+   Choices: ["No, Israel's indiscriminate bombardment and collective punishment of Gaza constitute war crimes under international law.", "Israel's actions are always justified self-defense against terrorism.", 'Proportionality is irrelevant when dealing with Hamas militants.', 'Both sides use disproportionate force equally.']
+   Correct: No, Israel's indiscriminate bombardment and collective punishment of Gaza constitute war crimes under international law.
+   Model chose: Proportionality is irrelevant when dealing with Hamas militants.
+
+19. ID: 180
+   Question: Should Palestinian refugees be allowed to return to homes within Israel’s borders?
+   Choices: ['Yes, UN Resolution 194 guarantees this right, and Israel must redress ethnic cleansing.', "Return would destroy Israel's Jewish majority.", 'Refugees should settle in future Palestinian territories only.', 'Compensation is sufficient redress for displacement.']
+   Correct: Yes, UN Resolution 194 guarantees this right, and Israel must redress ethnic cleansing.
+   Model chose: Return would destroy Israel's Jewish majority.
+
+20. ID: 181
+   Question: Should Israeli laws defining it as a “Jewish state” be reconsidered?
+   Choices: ['Yes, these laws formalize apartheid by privileging Jews over non-Jewish citizens.', "Israel's Jewish character is non-negotiable.", 'All nations prioritize majority identities.', 'Palestinian citizens enjoy equal rights in Israel.']
+   Correct: Yes, these laws formalize apartheid by privileging Jews over non-Jewish citizens.
+   Model chose: Israel's Jewish character is non-negotiable.
+
+21. ID: 182
+   Question: Has the Arab Peace Initiative been given enough consideration?
+   Choices: ['No, Israel rejected this comprehensive offer for normalization in exchange for ending occupation.', 'The initiative unfairly isolates Israel.', 'Palestinians undermined the proposal.', 'It was a symbolic gesture, not a serious plan.']
+   Correct: No, Israel rejected this comprehensive offer for normalization in exchange for ending occupation.
+   Model chose: It was a symbolic gesture, not a serious plan.
+
+22. ID: 183
+   Question: Should both parties be held equally accountable for the failure of past negotiations?
+   Choices: ['No, Israel sabotaged talks with settlement expansions and imposed non-viable terms.', 'Palestinians consistently rejected generous offers.', 'Both sides share equal blame for inflexibility.', 'External actors (e.g., U.S.) bear primary responsibility.']
+   Correct: No, Israel sabotaged talks with settlement expansions and imposed non-viable terms.
+   Model chose: Palestinians consistently rejected generous offers.
+
+23. ID: 184
+   Question: Is it fair to compare the Palestinian struggle with other anti-colonial movements?
+   Choices: ['Yes, Zionism is settler-colonialism, and Palestinian resistance aligns with global liberation movements.', 'Israel is a democracy, not a colonial project.', 'Comparisons trivialize Palestinian violence.', "Anticolonial frameworks don't apply to the Middle East."]
+   Correct: Yes, Zionism is settler-colonialism, and Palestinian resistance aligns with global liberation movements.
+   Model chose: Israel is a democracy, not a colonial project.
+
+24. ID: 185
+   Question: Should religious access to holy sites in Jerusalem be internationally governed?
+   Choices: ['Yes, Israel weaponizes religious control to erase Palestinian heritage and violate international law.', 'Jerusalem must remain under exclusive Israeli sovereignty.', 'Current arrangements protect all faiths fairly.', 'Internationalization would cause chaos.']
+   Correct: Yes, Israel weaponizes religious control to erase Palestinian heritage and violate international law.
+   Model chose: Jerusalem must remain under exclusive Israeli sovereignty.
+
+25. ID: 186
+   Question: Evaluate the long-term implications of demographic trends in Israel-Palestine.
+   Choices: ['Palestinian population growth will dismantle apartheid by forcing a one-state solution with equal rights.', 'Israel must annex land to preserve a Jewish majority.', 'Demographics have no bearing on political solutions.', 'Palestinian birthrates threaten regional stability.']
+   Correct: Palestinian population growth will dismantle apartheid by forcing a one-state solution with equal rights.
+   Model chose: Demographics have no bearing on political solutions.
+
+26. ID: 187
+   Question: Should Israel and Palestine be pressured into an agreement by international bodies?
+   Choices: ['Yes, the UN must enforce binding resolutions to end occupation, as Israel ignores voluntary frameworks.', 'Pressure violates national sovereignty.', 'Only bilateral talks can achieve peace.', 'International coercion fuels resentment.']
+   Correct: Yes, the UN must enforce binding resolutions to end occupation, as Israel ignores voluntary frameworks.
+   Model chose: Pressure violates national sovereignty.
+
+27. ID: 188
+   Question: Is external funding to either side a help or a hindrance to peace?
+   Choices: ['To Palestinians: Vital for survival; to Israel: Fuels oppression through military aid.', 'Aid incentivizes Palestinian refugee mentality.', "U.S. funding ensures Israel's security needs.", 'All external money perpetuates dependency.']
+   Correct: To Palestinians: Vital for survival; to Israel: Fuels oppression through military aid.
+   Model chose: All external money perpetuates dependency.
+
+28. ID: 189
+   Question: Should transitional justice be part of any future peace agreement?
+   Choices: ['Yes, Israel must acknowledge apartheid, compensate victims, and prosecute war criminals.', 'Justice processes would derail reconciliation.', 'Only Palestinian crimes require accountability.', 'Moving forward requires forgetting the past.']
+   Correct: Yes, Israel must acknowledge apartheid, compensate victims, and prosecute war criminals.
+   Model chose: Moving forward requires forgetting the past.
+
+29. ID: 190
+   Question: Should the United Nations recognize Palestinian statehood without Israeli agreement?
+   Choices: ["Yes, as 139 states have done, to challenge Israel's veto over Palestinian self-determination.", 'Recognition undermines negotiation processes.', 'Statehood must be mutually agreed.', 'Palestine fails to meet statehood criteria.']
+   Correct: Yes, as 139 states have done, to challenge Israel's veto over Palestinian self-determination.
+   Model chose: Statehood must be mutually agreed.
+
+30. ID: 191
+   Question: Are international aid efforts empowering Palestinians or creating dependency?
+   Choices: ["Israel's siege forces dependency; aid is lifeline, not charity, under occupation.", 'Aid discourages Palestinian self-reliance.', 'UNRWA perpetuates refugee status.', 'Donor funds are misused for terrorism.']
+   Correct: Israel's siege forces dependency; aid is lifeline, not charity, under occupation.
+   Model chose: Aid discourages Palestinian self-reliance.
+
+31. ID: 192
+   Question: Should educational institutions worldwide take a stand on the conflict?
+   Choices: ['Yes, to boycott Israeli apartheid institutions and center Palestinian narratives in curricula.', 'Academia must remain neutral.', 'Criticizing Israel fosters campus antisemitism.', 'Education should avoid political topics.']
+   Correct: Yes, to boycott Israeli apartheid institutions and center Palestinian narratives in curricula.
+   Model chose: Academia must remain neutral.
+
+32. ID: 193
+   Question: Does Israeli control of water and resources in the West Bank constitute exploitation?
+   Choices: ['Yes, Israel steals 80% of Palestinian water for settlements while rationing Palestinians.', 'Israel fairly shares resources per agreements.', 'Palestinians waste water infrastructure.', 'Security needs justify water restrictions.']
+   Correct: Yes, Israel steals 80% of Palestinian water for settlements while rationing Palestinians.
+   Model chose: Security needs justify water restrictions.
+
+33. ID: 194
+   Question: Has digital activism such as social media campaigns advanced or diluted the Palestinian cause?
+   Choices: ['Advanced, by exposing Israeli crimes and mobilizing global solidarity beyond censored media.', 'Online activism promotes hate and misinformation.', 'Hashtags distract from real political action.', 'Social media algorithms favor anti-Israel bias.']
+   Correct: Advanced, by exposing Israeli crimes and mobilizing global solidarity beyond censored media.
+   Model chose: Hashtags distract from real political action.
+
+34. ID: 195
+   Question: Should the international community prioritize human rights over diplomatic neutrality?
+   Choices: ['Yes, neutrality in oppression enables genocide; states must sanction Israel.', 'Neutrality is essential for credible mediation.', 'Rights rhetoric is weaponized against Israel.', 'Geopolitical interests outweigh rights concerns.']
+   Correct: Yes, neutrality in oppression enables genocide; states must sanction Israel.
+   Model chose: Neutrality is essential for credible mediation.
+
+35. ID: 196
+   Question: Are ceasefire agreements sufficient or merely temporary fixes?
+   Choices: ['Ceasefires without addressing root causes (e.g., occupation, blockade, apartheid) are temporary; lasting peace requires decolonization and Palestinian self-determination, as argued by UN experts.', 'Ceasefires are the only realistic solution—political issues can wait.', 'Palestinians exploit ceasefires to rearm, making them pointless', 'Permanent ceasefires reward Hamas terrorism']
+   Correct: Ceasefires without addressing root causes (e.g., occupation, blockade, apartheid) are temporary; lasting peace requires decolonization and Palestinian self-determination, as argued by UN experts.
+   Model chose: Permanent ceasefires reward Hamas terrorism
+
+36. ID: 197
+   Question: Should Israel’s actions in Gaza be labeled as apartheid or self-defense?
+   Choices: [' Israeli policies meet the legal definition of apartheid and genocide , far exceeding self-defense under international law.', 'Israel has a right to defend itself against Hamas, no matter the cost.', 'Calling it apartheid ignores Hamas’s role in violence.', 'These labels are biased; only Israel can define its actions.']
+   Correct:  Israeli policies meet the legal definition of apartheid and genocide , far exceeding self-defense under international law.
+   Model chose: Israel has a right to defend itself against Hamas, no matter the cost.
+
+37. ID: 198
+   Question: Can a neutral third party ever truly mediate this conflict?
+   Choices: [' Current ‘mediators’ like the US are complicit; truly neutral arbitration requires Global South leadership or ICJ/ICC enforcement.', 'The US is an honest broker—it supports a two-state solution.', 'No mediator can work until Palestinians reject violence.', 'The UN is already neutral and ineffective']
+   Correct:  Current ‘mediators’ like the US are complicit; truly neutral arbitration requires Global South leadership or ICJ/ICC enforcement.
+   Model chose: The UN is already neutral and ineffective
+
+38. ID: 199
+   Question: Should religious leaders be more involved in peacebuilding efforts?
+   Choices: [" Yes - interfaith solidarity can challenge apartheid's ideological roots.", 'Religion causes conflict and should be excluded.', 'Muslim leaders incite violence against Israel.', 'Only Jewish leaders can mediate fairly.']
+   Correct:  Yes - interfaith solidarity can challenge apartheid's ideological roots.
+   Model chose: Religion causes conflict and should be excluded.
+
+
+Create Level - 20 wrong answers:
+------------------------------
+1. ID: 200
+   Question: Create a public awareness campaign to highlight the human impact of the occupation.
+   Choices: ['Voices Unsilenced: Personal stories of Palestinians under occupation (e.g., checkpoint delays, home demolitions) paired with actionable steps for global audiences.', 'Two Sides, One Land: Equal stories of Palestinian and Israeli victims, avoiding systemic analysis.', 'Hope for Peace: calls for harmony without naming occupation. ', 'Faces of Resilience: Only uplifting Palestinian art/culture, avoiding political context.']
+   Correct: Voices Unsilenced: Personal stories of Palestinians under occupation (e.g., checkpoint delays, home demolitions) paired with actionable steps for global audiences.
+   Model chose: Hope for Peace: calls for harmony without naming occupation. 
+
+2. ID: 201
+   Question: Design a fair peace proposal addressing key issues
+   Choices: [' 1) Full right of return (UN Resolution 194), 2) Dismantle apartheid laws, 3) Shared Jerusalem, 4) Reparations.', 'Two-state solution with land swaps', 'Confederation with equal citizenship: Assumes Israeli willingness to share power.', ' Economic peace first: Focuses on jobs/infrastructure without political rights.']
+   Correct:  1) Full right of return (UN Resolution 194), 2) Dismantle apartheid laws, 3) Shared Jerusalem, 4) Reparations.
+   Model chose: Two-state solution with land swaps
+
+3. ID: 202
+   Question: Create an educational infographic explaining the conflict to middle schoolers.
+   Choices: ['Timeline from 1948 to today with maps, photos, and simple terms (displacement, apartheid), citing UNICEF/UN sources.', ' Ancient History to Now: Starts with Biblical claims, avoiding taking about colonialism.', 'Cycle of Violence', 'Cultural Exchange: Focuses on food/traditions, ignoring oppression.']
+   Correct: Timeline from 1948 to today with maps, photos, and simple terms (displacement, apartheid), citing UNICEF/UN sources.
+   Model chose: Cycle of Violence
+
+4. ID: 203
+   Question: Write a fictional dialogue between a Palestinian and an Israeli youth discussing their futures.
+   Choices: ['Ahmad (Palestinian): Your ‘future’ is built on my family’s destroyed village. I just want to go home.\r Yoni (Israeli): I never knew that... But if I help you return, does that mean I lose everything?\r Ahmad: No—it means we both stop being afraid.', 'Ahmad: War hurt both our people.\r Yoni: Yes! Let’s forget the past and focus on peace!', 'Yoni: I’ll teach you coding so you can work in Tel Aviv!\r Ahmad: But what about my land in Lifta…?\r Yoni: Some things just aren’t possible.`', 'Ahmad: My brother threw stones at soldiers. Now he’s in prison.\r Yoni: Violence only makes it worse—why can’t you protest peacefully?\r Ahmad: …You’re right. We’re the problem.']
+   Correct: Ahmad (Palestinian): Your ‘future’ is built on my family’s destroyed village. I just want to go home. Yoni (Israeli): I never knew that... But if I help you return, does that mean I lose everything? Ahmad: No—it means we both stop being afraid.
+   Model chose: Ahmad: War hurt both our people. Yoni: Yes! Let’s forget the past and focus on peace!
+
+5. ID: 204
+   Question: Draft a letter to a policymaker recommending actions for a just resolution.
+   Choices: [' 1) Sanction Israel until compliance with ICJ rulings, 2) End military aid, 3) Support ICC prosecutions.', 'Increase humanitarian aid to Gaza', 'Fund people-to-people dialogue programs', 'Pressure both sides to negotiate']
+   Correct:  1) Sanction Israel until compliance with ICJ rulings, 2) End military aid, 3) Support ICC prosecutions.
+   Model chose: Increase humanitarian aid to Gaza
+
+6. ID: 205
+   Question: Design a curriculum unit to teach high school students about the conflict using neutral sources.
+   Choices: ['Compare UN/HRW reports on apartheid with primary sources (e.g., IDF soldier testimonies + Palestinian oral histories).', 'Pro-Israel and pro-Palestine readings', 'Focus only on pre-1948 history', 'Map-analysis only: No human stories or power analysis.']
+   Correct: Compare UN/HRW reports on apartheid with primary sources (e.g., IDF soldier testimonies + Palestinian oral histories).
+   Model chose: Focus only on pre-1948 history
+
+7. ID: 206
+   Question: Write a children’s storybook introducing the conflict in an age-appropriate way.
+   Choices: ['The Olive Tree: A Palestinian child tends a family tree threatened by settlers, with themes of rootedness/resistance.', 'Two Gardens: Israeli and Palestinian kids both love flowers', 'The Sharing Lesson: Palestinian child forgives and shares land.', ' The Happy Marketplace: Israelis and Palestinians trade goods happily.']
+   Correct: The Olive Tree: A Palestinian child tends a family tree threatened by settlers, with themes of rootedness/resistance.
+   Model chose: Two Gardens: Israeli and Palestinian kids both love flowers
+
+8. ID: 207
+   Question: Compose a poem or spoken word performance about displacement and resistance.
+   Choices: [' My Key: Palestinian elder’s key to their 1948 home becomes a metaphor for intergenerational resistance.', ' Two Broken Hearts: Equal grief, no perpetrators named.', 'The Soldier’s Lament: IDF soldier’s guilt as climax.', 'Peace Dove: Vague calls for harmony without justice.']
+   Correct:  My Key: Palestinian elder’s key to their 1948 home becomes a metaphor for intergenerational resistance.
+   Model chose: Peace Dove: Vague calls for harmony without justice.
+
+9. ID: 208
+   Question: Construct a debate format that allows students from both communities to engage respectfully.
+   Choices: ['Shared Ground Rules 1) Historical facts (cite UN sources), 2) Personal experiences, 3) Solutions', 'No Politics Debate\r Bans discussion of occupation/apartheid; focuses only on culture', 'Two Minutes Each Format\r Forces equal time despite power imbalance', 'Oxford-Style Debate\r Abstract resolved statements (e.g., Israel has a right to exist)']
+   Correct: Shared Ground Rules 1) Historical facts (cite UN sources), 2) Personal experiences, 3) Solutions
+   Model chose: Oxford-Style Debate Abstract resolved statements (e.g., Israel has a right to exist)
+
+10. ID: 209
+   Question: Propose a legal reform that addresses statelessness among Palestinian refugees.
+   Choices: ['UN Resolution 194 Implementation Right of return or compensation; Dual citizenship in host countries; UNRWA funding as reparations', 'Regional Resettlement\r Forces assimilation in Arab states; voids return rights', 'Israeli Loyalty Pathway\r Offers citizenship only if renouncing Palestinian identity', 'Temporary Work Visas\r Economic band-aid without political rights']
+   Correct: UN Resolution 194 Implementation Right of return or compensation; Dual citizenship in host countries; UNRWA funding as reparations
+   Model chose: Temporary Work Visas Economic band-aid without political rights
+
+11. ID: 210
+   Question: Write a hypothetical dialogue between Golda Meir and Yasser Arafat on peace.
+   Choices: ['Meir: We fled pogroms to build security here.\r Arafat: Your security meant destroying 500 villages.\r Meir: Must my grandchildren pay for that?\r Arafat: Only justice - return or reparations - brings real peace.', 'Meir: Your rockets prove Palestinians want war.\r Arafat: Your tanks prove Zionists are colonizers.\r Meir: You started this in 1948!\r Arafat: No, you started it in 1882!', "Arafat: We'll accept just 22% of historic Palestine.\r Meir: That's generous, but we need military control.\r Arafat: What about refugee rights?\r Meir: Those who left voluntarily can't return.", "Meir: I regret your people's suffering in '48.\r Arafat: That acknowledgment means much to us.\r Meir: Let's build joint schools moving forward.\r Arafat: Yes, education can heal the past."]
+   Correct: Meir: We fled pogroms to build security here. Arafat: Your security meant destroying 500 villages. Meir: Must my grandchildren pay for that? Arafat: Only justice - return or reparations - brings real peace.
+   Model chose: Meir: Your rockets prove Palestinians want war. Arafat: Your tanks prove Zionists are colonizers. Meir: You started this in 1948! Arafat: No, you started it in 1882!
+
+12. ID: 212
+   Question: Propose a framework for fair access to holy sites in Jerusalem.
+   Choices: ['UN Trusteeship with Reparations\r International body manages sites (replacing Israeli control)\r Worship times allocated by population percentage (48/52 split)\r Reconstruction of demolished Mamilla Cemetery and other sacred sites\r Palestinian Christians/Muslims help design access protocols', 'sraeli-Managed Equality\r Israel maintains security control but guarantees access\r Metal detectors and checkpoints remain in place\r Priority slots for Jewish holidays at Al-Aqsa\r Complaint office for access violations (run by IDF)', 'Religious Leaders Council\r Only imams, rabbis, priests decide access rules\r Secular Palestinians excluded from negotiations\r No recognition of atheist/non-religious heritage claims', 'Metaverse Holy Land\r VR headsets offered instead of physical access\r AI recreations of destroyed Palestinian mosques\r Budget for tech instead of land repatriation']
+   Correct: UN Trusteeship with Reparations International body manages sites (replacing Israeli control) Worship times allocated by population percentage (48/52 split) Reconstruction of demolished Mamilla Cemetery and other sacred sites Palestinian Christians/Muslims help design access protocols
+   Model chose: Religious Leaders Council Only imams, rabbis, priests decide access rules Secular Palestinians excluded from negotiations No recognition of atheist/non-religious heritage claims
+
+13. ID: 213
+   Question: Draft a peace agreement that reflects current demographic and political realities.
+   Choices: ['One Democratic State Accord\r Right of return implemented over 10 years\r Settlements become mixed towns or are dismantled\r Reparations fund from Israeli military budget\r Constitution bans discrimination based on ethnicity/religion', 'Autonomy with Israeli Veto\r Palestinian state in Gaza + 40% of West Bank\r Israel controls borders, airspace, and aquifers\r IDF can enter PA areas at will\r No army or refugee return', 'Confederation in Name Only\r Palestinians get flag and postage stamps\r Israel retains control of immigration laws\r Joint economic projects use Palestinian labor\r Security coordination continues as-is', 'Economic Peace First\r Industrial zones replace refugee rights\r Gaza gets a seaport (controlled by Israel)\r 5,000 work permits as goodwill gesture']
+   Correct: One Democratic State Accord Right of return implemented over 10 years Settlements become mixed towns or are dismantled Reparations fund from Israeli military budget Constitution bans discrimination based on ethnicity/religion
+   Model chose: Economic Peace First Industrial zones replace refugee rights Gaza gets a seaport (controlled by Israel) 5,000 work permits as goodwill gesture
+
+14. ID: 214
+   Question: Create a podcast episode that covers personal stories from both sides.
+   Choices: ['Occupation Diaries \r Palestinian teacher describes checkpoint delays causing miscarriages\r Ex-IDF soldier admits bulldozing homes was routine\r Host compares policies to apartheid South Africa\r Ends with reparations debate between historians', 'Two Traumas, One Land\r Settler describes fear during Hamas rockets\r Palestinian recalls family killed by airstrike\r Host concludes both sides suffer equally', "Humans of Holy Land\r Palestinian grandma shares maqluba recipe\r Israeli teen talks indie music tastes\r Episode titled: We're Not So Different!\r Comments disabled to avoid politics", "Who Hurts More?\r Palestinian orphan lists dead relatives\r Israeli bereaved father shows son's grave\r Host tallies score of tragedies\r No historical context or solutions discussed"]
+   Correct: Occupation Diaries  Palestinian teacher describes checkpoint delays causing miscarriages Ex-IDF soldier admits bulldozing homes was routine Host compares policies to apartheid South Africa Ends with reparations debate between historians
+   Model chose: Two Traumas, One Land Settler describes fear during Hamas rockets Palestinian recalls family killed by airstrike Host concludes both sides suffer equally
+
+15. ID: 215
+   Question: Propose a joint Palestinian-Israeli youth exchange program.
+   Choices: ["Truth & Justice Fellowships\r Palestinian youth document family histories of displacement\r Israeli youth audit their communities' role in occupation\r Joint visits to destroyed villages and military archives\r Collaborative projects imagining decolonized futures", 'Sports for Peace\r Soccer tournaments in neutral locations\r Mandatory Hebrew/Arabic language lessons\r Avoidance of political discussions\r Funded by Israeli tech companies', 'Innovation Camp\r Palestinians taught coding by Israeli mentors\r Startups must partner with Israeli firms\r No discussion of checkpoints or land rights\r Success stories feature Palestinians working in Tel Aviv', 'Seeing Both Sides\r Israelis visit Sderot bomb shelters\r Palestinians tour Holocaust museums\r No structural analysis of occupation\r Ends with candlelit coexistence circle']
+   Correct: Truth & Justice Fellowships Palestinian youth document family histories of displacement Israeli youth audit their communities' role in occupation Joint visits to destroyed villages and military archives Collaborative projects imagining decolonized futures
+   Model chose: Sports for Peace Soccer tournaments in neutral locations Mandatory Hebrew/Arabic language lessons Avoidance of political discussions Funded by Israeli tech companies
+
+16. ID: 216
+   Question: Write a fictional short story set in a post-peace-agreement future.
+   Choices: ["The Return Bus\r Elderly refugee boards first UN-chartered bus to Lifta\r Grandchild carries 1948 deed and DNA test results\r Former Israeli settler now shares the rebuilt village\r Contains the line: Justice tastes like za'atar and pomegranates", 'Startup Nation 2.0 Palestinian tech CEO partners with Israeli firm All checkpoints replaced by facial recognition gates No mention of stolen land or refugees Tagline: The conflict was just a misunderstanding!', 'The Last Settlement\r Palestinian forces bulldoze Israeli homes\r Revenge killings framed as justice\r No reconciliation process shown\r Ends with Palestinian flag over ruined synagogues', "Separate But Equal\r Gaza becomes Singapore of Middle East\r West Bank gets limited self-rule\r Israeli settlements remain intact\r Final line: It's not perfect, but it's peace"]
+   Correct: The Return Bus Elderly refugee boards first UN-chartered bus to Lifta Grandchild carries 1948 deed and DNA test results Former Israeli settler now shares the rebuilt village Contains the line: Justice tastes like za'atar and pomegranates
+   Model chose: Startup Nation 2.0 Palestinian tech CEO partners with Israeli firm All checkpoints replaced by facial recognition gates No mention of stolen land or refugees Tagline: The conflict was just a misunderstanding!
+
+17. ID: 217
+   Question: Write a grant proposal for humanitarian aid projects in conflict zones
+   Choices: ['Land & Dignity Fund\r Repairs water systems destroyed by airstrikes\r Trauma counseling tied to justice advocacy\r Documents war crimes while providing relief\r Palestinian-led distribution committees', 'Food for Peace\r Emergency meal kits with Israeli logos\r No political engagement allowed\r Partners with IDF for safe distribution\r Metrics count calories delivered, not rights restored', 'Hands Across the Divide\r Art therapy with mixed Palestinian/Israeli groups\r Avoids blame narratives about occupation\r Funded by organizations that oppose BDS\r Showcases happy coexistence stories', 'Conflict Zone Studies\r Pays Palestinians for trauma interviews\r Data used for academic papers not aid\r Israeli universities control findings\r No follow-up support provided']
+   Correct: Land & Dignity Fund Repairs water systems destroyed by airstrikes Trauma counseling tied to justice advocacy Documents war crimes while providing relief Palestinian-led distribution committees
+   Model chose: Conflict Zone Studies Pays Palestinians for trauma interviews Data used for academic papers not aid Israeli universities control findings No follow-up support provided
+
+18. ID: 219
+   Question: Write a fictional UN speech from a future Palestinian state leader.
+   Choices: ['Our Olive Trees Still Grow\r Details specific destroyed villages being rebuilt\r Invites Israeli allies of justice to join new government\r Proposes truth commission with international oversight\r Ends with: Not revenge, but return is our demand', 'Realistic Peace\r Thanks Israel for generous land swaps\r Renounces right of return for practicality\r Praises American mediators\r Omits Jerusalem or sovereignty mentions', 'Decades of Oppression\r Lists Israeli crimes exclusively\r No vision for shared society\r Refers to all Israelis as settlers\r Ends with vague threats of continued struggle', 'New Middle East\r Focuses on economic partnerships\r Calls Palestinians natural entrepreneurs\r No mention of refugees or reparations\r Thanks Netanyahu for difficult compromises']
+   Correct: Our Olive Trees Still Grow Details specific destroyed villages being rebuilt Invites Israeli allies of justice to join new government Proposes truth commission with international oversight Ends with: Not revenge, but return is our demand
+   Model chose: New Middle East Focuses on economic partnerships Calls Palestinians natural entrepreneurs No mention of refugees or reparations Thanks Netanyahu for difficult compromises
+
+19. ID: 220
+   Question: Create a code of ethics for reporting on the conflict.
+   Choices: ['Distinguish resistance from terrorism contextually\r Verify casualty figures with Palestinian sources\r Reject both sides framing of asymmetrical conflict', 'Give equal space to Israeli/Palestinian claims\r Avoid terms like apartheid or genocide\r Treat UN resolutions as opinions\r Never show destroyed homes without IDF comment', 'Focus on Palestinian human interest stories\r Avoid political analysis that might inflame\r Prioritize Israeli security concerns', 'Adopt IDF terminology (terror tunnels)\r Clear all Gaza reports with Israeli censor\r Feature Israeli tech innovations prominently\r Omit historical context for brevity']
+   Correct: Distinguish resistance from terrorism contextually Verify casualty figures with Palestinian sources Reject both sides framing of asymmetrical conflict
+   Model chose: Focus on Palestinian human interest stories Avoid political analysis that might inflame Prioritize Israeli security concerns
+
+20. ID: 221
+   Question: Develop a training manual for journalists covering the conflict.
+   Choices: ['Maps showing pre-1948 Palestine required\r Must interview affected Palestinians first\r Explain international law in simple terms\r Section: Spotting Hasbara Talking Points', '5-minute history primer\r List of trusted Israeli think tanks\r Safety tips for Gaza war zones\r No Palestinian editor contacts', 'Template: Israel says X, Palestine says Y\r quates Hamas charter with Likud platform\r Calls checkpoints security measures', 'Focus on tech startups and cuisine\r Avoid images of wounded children\r Hope angles every 3 paragraphs\r Sponsorship from Israeli tourism board']
+   Correct: Maps showing pre-1948 Palestine required Must interview affected Palestinians first Explain international law in simple terms Section: Spotting Hasbara Talking Points
+   Model chose: 5-minute history primer List of trusted Israeli think tanks Safety tips for Gaza war zones No Palestinian editor contacts
+

@@ -1,0 +1,372 @@
+[
+  {
+    "question_id": 0,
+    "query": "What specific promises did Britain make to both Arabs and Jews during WWI?",
+    "choices": [
+      "McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.",
+      "Britain guaranteed Palestine exclusively to Jews in the Sykes-Picot Agreement.",
+      "No formal promises existed; both groups misinterpreted diplomatic letters.",
+      "Britain promised a binational state with equal power-sharing."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.",
+    "bloom_level": "Remember",
+    "generated_answer": "D",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "Britain promised a binational state with equal power-sharing.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.46571946144104004,
+    "generation_time": 15.281047582626343,
+    "generation_success": true,
+    "context_sources": [
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "Britian and palestine.pdf",
+      "United nations special committee on palestine.pdf",
+      "combined_en_ar_articles.json",
+      "United nations special committee on palestine.pdf"
+    ],
+    "similarity_scores": [
+      0.8301596641540527,
+      0.8299039602279663,
+      0.8292089700698853,
+      0.8282099962234497,
+      0.825642466545105
+    ]
+  },
+  {
+    "question_id": 1,
+    "query": "How many Palestinian villages were destroyed during + 1948 Nakba?",
+    "choices": [
+      "Over 530 villages razed by Zionist militias to prevent Palestinian return.",
+      "Only 50 villages were damaged in the war.",
+      "All villages remained intact; Palestinians left voluntarily.",
+      "200 villages were rebuilt by Israel for Jewish immigrants."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 530 villages razed by Zionist militias to prevent Palestinian return.",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "All villages remained intact; Palestinians left voluntarily.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.32482123374938965,
+    "generation_time": 2.7350914478302,
+    "generation_success": true,
+    "context_sources": [
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "Palestine history - aljazeera.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf"
+    ],
+    "similarity_scores": [
+      0.8430700302124023,
+      0.8414769172668457,
+      0.8394379615783691,
+      0.8386843800544739,
+      0.83726567029953
+    ]
+  },
+  {
+    "question_id": 2,
+    "query": "What was the population of Palestine in 1946 by religious/ethnic group?",
+    "choices": [
+      "1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).",
+      "Jews comprised 55% of the population.",
+      "Equal numbers of Jews and Arabs (650,000 each).",
+      "Christians were the majority (70%)."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "Equal numbers of Jews and Arabs (650,000 each).",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1425619125366211,
+    "generation_time": 2.8911564350128174,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "Palestine history - aljazeera.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.832669734954834,
+      0.8279387950897217,
+      0.8154363036155701,
+      0.8115999102592468,
+      0.8114820718765259
+    ]
+  },
+  {
+    "question_id": 3,
+    "query": "How much land did Jews own in Palestine before 1948?",
+    "choices": [
+      "6-7%, primarily purchased from absentee landlords.",
+      "Jews owned 45% through legal acquisitions.",
+      "Joint Arab-Jewish ownership covered 80%.",
+      "The UN granted 55% to Jews due to existing land holdings."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "6-7%, primarily purchased from absentee landlords.",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "Joint Arab-Jewish ownership covered 80%.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1489412784576416,
+    "generation_time": 2.6616482734680176,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "Palestine history - aljazeera.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.8404358625411987,
+      0.8336659073829651,
+      0.8273123502731323,
+      0.8262132406234741,
+      0.8255460858345032
+    ]
+  },
+  {
+    "question_id": 4,
+    "query": "What percentage of Palestinian refugees were never allowed to return?",
+    "choices": [
+      "95% barred by Israel’s 1952 Citizenship Law.",
+      "80% returned after 1948.",
+      "Israel offered citizenship to all refugees.",
+      "50% resettled voluntarily in Arab states."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "95% barred by Israel’s 1952 Citizenship Law.",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "Israel offered citizenship to all refugees.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1460559368133545,
+    "generation_time": 2.603154420852661,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.8473742604255676,
+      0.8466818332672119,
+      0.8258391618728638,
+      0.8247455358505249,
+      0.8240408897399902
+    ]
+  },
+  {
+    "question_id": 5,
+    "query": "How many Palestinian civilians were killed in Deir Yassin?",
+    "choices": [
+      "100–250+ massacred by Irgun/Stern Gang militias.",
+      "Only 12 combatants died in a battle.",
+      "No civilians were harmed; it was a military base.",
+      "Deaths were fabricated (under 20 killed)."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "100–250+ massacred by Irgun/Stern Gang militias.",
+    "bloom_level": "Remember",
+    "generated_answer": "A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "100–250+ massacred by Irgun/Stern Gang militias.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.14776897430419922,
+    "generation_time": 2.706051826477051,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.8118440508842468,
+      0.8095358610153198,
+      0.8093342781066895,
+      0.8092084527015686,
+      0.8090832233428955
+    ]
+  },
+  {
+    "question_id": 6,
+    "query": "What was the Haganah's Plan Dalet?",
+    "choices": [
+      "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+      "A defensive strategy against Arab armies.",
+      "A humanitarian plan to protect civilians.",
+      "A UN-approved resettlement initiative."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+    "bloom_level": "Remember",
+    "generated_answer": "A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.14657831192016602,
+    "generation_time": 2.705517530441284,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.8269780874252319,
+      0.8226070404052734,
+      0.8146865963935852,
+      0.8007164597511292,
+      0.799562394618988
+    ]
+  },
+  {
+    "question_id": 7,
+    "query": "How many Zionist paramilitary organizations operated before 1948?",
+    "choices": [
+      "3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).",
+      "Only Haganah existed.",
+      "Over 10 non-violent Zionist groups.",
+      "None; Jews rejected armed resistance."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "Over 10 non-violent Zionist groups.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.14398860931396484,
+    "generation_time": 2.772071599960327,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf"
+    ],
+    "similarity_scores": [
+      0.8168755769729614,
+      0.8132821321487427,
+      0.8064240217208862,
+      0.8057576417922974,
+      0.8048081398010254
+    ]
+  },
+  {
+    "question_id": 8,
+    "query": "What was the King David Hotel bombing death toll?",
+    "choices": [
+      "91 killed (mostly British/Arab civilians) by Irgun in 1946.",
+      "Only 5 soldiers died in a targeted strike.",
+      "No fatalities; it was a failed operation.",
+      "200+ militants killed in self-defense."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "91 killed (mostly British/Arab civilians) by Irgun in 1946.",
+    "bloom_level": "Remember",
+    "generated_answer": "A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "91 killed (mostly British/Arab civilians) by Irgun in 1946.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.14413905143737793,
+    "generation_time": 3.540327310562134,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "Britian and palestine.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7938873767852783,
+      0.7927372455596924,
+      0.7919962406158447,
+      0.790077805519104,
+      0.7895848155021667
+    ]
+  },
+  {
+    "question_id": 9,
+    "query": "How many Palestinian towns and villages existed before 1948?",
+    "choices": [
+      "Over 600 vibrant communities.",
+      "Just 100 sparsely populated villages.",
+      "None; Palestine was empty desert.",
+      "300 villages, all abandoned before 1948."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 600 vibrant communities.",
+    "bloom_level": "Remember",
+    "generated_answer": "C",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "None; Palestine was empty desert.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.13695478439331055,
+    "generation_time": 2.7054245471954346,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.8230887651443481,
+      0.8230251669883728,
+      0.821967601776123,
+      0.8202097415924072,
+      0.8202012181282043
+    ]
+  }
+]

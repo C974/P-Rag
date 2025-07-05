@@ -1,0 +1,1482 @@
+[
+  {
+    "question_id": 0,
+    "query": "What specific promises did Britain make to both Arabs and Jews during WWI?",
+    "choices": [
+      "McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.",
+      "Britain guaranteed Palestine exclusively to Jews in the Sykes-Picot Agreement.",
+      "No formal promises existed; both groups misinterpreted diplomatic letters.",
+      "Britain promised a binational state with equal power-sharing."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "McMahon-Hussein Correspondence (1915) promised Arab independence (including Palestine) for revolting against Ottomans; Balfour Declaration (1917) pledged a Jewish national home in Palestine.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.23879361152648926,
+    "generation_time": 4.774922847747803,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "United nations special committee on palestine.pdf",
+      "United nations special committee on palestine.pdf",
+      "United nations special committee on palestine.pdf",
+      "United nations special committee on palestine.pdf"
+    ],
+    "similarity_scores": [
+      0.7539591193199158,
+      0.7467683553695679,
+      0.7450447082519531,
+      0.7335097193717957,
+      0.7290000915527344
+    ]
+  },
+  {
+    "question_id": 1,
+    "query": "How many Palestinian villages were destroyed during + 1948 Nakba?",
+    "choices": [
+      "Over 530 villages razed by Zionist militias to prevent Palestinian return.",
+      "Only 50 villages were damaged in the war.",
+      "All villages remained intact; Palestinians left voluntarily.",
+      "200 villages were rebuilt by Israel for Jewish immigrants."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 530 villages razed by Zionist militias to prevent Palestinian return.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Over 530 villages razed by Zionist militias to prevent Palestinian return.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.20901060104370117,
+    "generation_time": 4.279666900634766,
+    "generation_success": true,
+    "context_sources": [
+      "The Palestine Nakba.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7617661356925964,
+      0.7446741461753845,
+      0.7420623898506165,
+      0.7406953573226929,
+      0.7398687601089478
+    ]
+  },
+  {
+    "question_id": 2,
+    "query": "What was the population of Palestine in 1946 by religious/ethnic group?",
+    "choices": [
+      "1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).",
+      "Jews comprised 55% of the population.",
+      "Equal numbers of Jews and Arabs (650,000 each).",
+      "Christians were the majority (70%)."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe population of Palestine",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "1.3 million Palestinians (67% Muslim, 30% Christian, 3% Jewish).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.21144413948059082,
+    "generation_time": 3.0572359561920166,
+    "generation_success": true,
+    "context_sources": [
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7081007957458496,
+      0.7008465528488159,
+      0.6943849921226501,
+      0.6897906064987183,
+      0.6867792010307312
+    ]
+  },
+  {
+    "question_id": 3,
+    "query": "How much land did Jews own in Palestine before 1948?",
+    "choices": [
+      "6-7%, primarily purchased from absentee landlords.",
+      "Jews owned 45% through legal acquisitions.",
+      "Joint Arab-Jewish ownership covered 80%.",
+      "The UN granted 55% to Jews due to existing land holdings."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "6-7%, primarily purchased from absentee landlords.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "6-7%, primarily purchased from absentee landlords.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.20359444618225098,
+    "generation_time": 4.450232267379761,
+    "generation_success": true,
+    "context_sources": [
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7240419387817383,
+      0.7179213762283325,
+      0.7154973745346069,
+      0.7109904289245605,
+      0.7027640342712402
+    ]
+  },
+  {
+    "question_id": 4,
+    "query": "What percentage of Palestinian refugees were never allowed to return?",
+    "choices": [
+      "95% barred by Israel’s 1952 Citizenship Law.",
+      "80% returned after 1948.",
+      "Israel offered citizenship to all refugees.",
+      "50% resettled voluntarily in Arab states."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "95% barred by Israel’s 1952 Citizenship Law.",
+    "bloom_level": "Remember",
+    "generated_answer": "D\nAnswer: D\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "95% barred by Israel’s 1952 Citizenship Law.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.5889163017272949,
+    "generation_time": 3.9846625328063965,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.6998239755630493,
+      0.6850907802581787,
+      0.6688235402107239,
+      0.6661096811294556,
+      0.6621863842010498
+    ]
+  },
+  {
+    "question_id": 5,
+    "query": "How many Palestinian civilians were killed in Deir Yassin?",
+    "choices": [
+      "100–250+ massacred by Irgun/Stern Gang militias.",
+      "Only 12 combatants died in a battle.",
+      "No civilians were harmed; it was a military base.",
+      "Deaths were fabricated (under 20 killed)."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "100–250+ massacred by Irgun/Stern Gang militias.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe context provided in",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "Deaths were fabricated (under 20 killed).",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1918175220489502,
+    "generation_time": 5.658669471740723,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7050015926361084,
+      0.7002027034759521,
+      0.6970815658569336,
+      0.6949805021286011,
+      0.694256067276001
+    ]
+  },
+  {
+    "question_id": 6,
+    "query": "What was the Haganah's Plan Dalet?",
+    "choices": [
+      "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+      "A defensive strategy against Arab armies.",
+      "A humanitarian plan to protect civilians.",
+      "A UN-approved resettlement initiative."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Systematic ethnic cleansing to expel Palestinians, destroy villages, and secure territory for Israel.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.18741130828857422,
+    "generation_time": 3.9997596740722656,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf"
+    ],
+    "similarity_scores": [
+      0.7505466938018799,
+      0.7155454158782959,
+      0.7076070308685303,
+      0.7038701772689819,
+      0.6913741827011108
+    ]
+  },
+  {
+    "question_id": 7,
+    "query": "How many Zionist paramilitary organizations operated before 1948?",
+    "choices": [
+      "3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).",
+      "Only Haganah existed.",
+      "Over 10 non-violent Zionist groups.",
+      "None; Jews rejected armed resistance."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe question asks how",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "3 major groups: Haganah (official militia), Irgun, and Lehi (Stern Gang).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19475626945495605,
+    "generation_time": 4.488164901733398,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "palestine_articles.json",
+      "combined_en_ar_articles.json",
+      "United nations special committee on palestine.pdf"
+    ],
+    "similarity_scores": [
+      0.7122207283973694,
+      0.6788369417190552,
+      0.6752519011497498,
+      0.6590194702148438,
+      0.6551475524902344
+    ]
+  },
+  {
+    "question_id": 8,
+    "query": "What was the King David Hotel bombing death toll?",
+    "choices": [
+      "91 killed (mostly British/Arab civilians) by Irgun in 1946.",
+      "Only 5 soldiers died in a targeted strike.",
+      "No fatalities; it was a failed operation.",
+      "200+ militants killed in self-defense."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "91 killed (mostly British/Arab civilians) by Irgun in 1946.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe context provided does",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "200+ militants killed in self-defense.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.18976926803588867,
+    "generation_time": 5.635420799255371,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.6510812044143677,
+      0.650823712348938,
+      0.6475542187690735,
+      0.6464490294456482,
+      0.6450585126876831
+    ]
+  },
+  {
+    "question_id": 9,
+    "query": "How many Palestinian towns and villages existed before 1948?",
+    "choices": [
+      "Over 600 vibrant communities.",
+      "Just 100 sparsely populated villages.",
+      "None; Palestine was empty desert.",
+      "300 villages, all abandoned before 1948."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 600 vibrant communities.",
+    "bloom_level": "Remember",
+    "generated_answer": "D\nThe answer is D.\nThe correct answer",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "300 villages, all abandoned before 1948.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19792962074279785,
+    "generation_time": 4.048627138137817,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "combined_en_ar_articles.json",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf"
+    ],
+    "similarity_scores": [
+      0.7378524541854858,
+      0.7062088251113892,
+      0.699185848236084,
+      0.6958968639373779,
+      0.6953376531600952
+    ]
+  },
+  {
+    "question_id": 10,
+    "query": "What does Israeli historian Benny Morris document about 1948 expulsions?",
+    "choices": [
+      "Forced expulsions ordered by Zionist leaders (e.g., Ben-Gurion) to create a Jewish majority.",
+      "Palestinians left voluntarily after Arab leaders’ calls.",
+      "No expulsions occurred; all departures were wartime panic.",
+      "Expulsions were isolated incidents by rogue militias."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Forced expulsions ordered by Zionist leaders (e.g., Ben-Gurion) to create a Jewish majority.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Forced expulsions ordered by Zionist leaders (e.g., Ben-Gurion) to create a Jewish majority.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.24007177352905273,
+    "generation_time": 3.067521333694458,
+    "generation_success": true,
+    "context_sources": [
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf"
+    ],
+    "similarity_scores": [
+      0.7453323006629944,
+      0.7179985046386719,
+      0.7119481563568115,
+      0.7067389488220215,
+      0.6944714784622192
+    ]
+  },
+  {
+    "question_id": 11,
+    "query": "How many Palestinians were internally displaced within Israel after 1948?",
+    "choices": [
+      "250,000+ designated present absentees – barred from returning home.",
+      "None; all Palestinians retained property rights.",
+      "Only 10,000 were displaced temporarily.",
+      "Israel compensated all displaced families."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "250,000+ designated present absentees – barred from returning home.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe question is asking",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "250,000+ designated present absentees – barred from returning home.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.18862605094909668,
+    "generation_time": 3.523738145828247,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf"
+    ],
+    "similarity_scores": [
+      0.8253011703491211,
+      0.7822093963623047,
+      0.7467955350875854,
+      0.7186181545257568,
+      0.7170017957687378
+    ]
+  },
+  {
+    "question_id": 12,
+    "query": "What was Operation Hiram and its impact on Palestinian civilians?",
+    "choices": [
+      "Mass expulsion/massacres (e.g., Al-Dawayima) forcing 50,000+ Palestinians from Galilee (1948).",
+      "A humanitarian aid operation for Arab villages.",
+      "Minor border skirmishes with no casualties.",
+      "Palestinian fighters surrendered peacefully."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Mass expulsion/massacres (e.g., Al-Dawayima) forcing 50,000+ Palestinians from Galilee (1948).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe answer is A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Mass expulsion/massacres (e.g., Al-Dawayima) forcing 50,000+ Palestinians from Galilee (1948).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19372892379760742,
+    "generation_time": 4.108205080032349,
+    "generation_success": true,
+    "context_sources": [
+      "Situation of human rights in the Palestinian territories.pdf",
+      "Public Sitting Tuesday 29 April 2025, at 10 p.m., at the Peace Palace.pdf",
+      "The Palestine Nakba.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.6606825590133667,
+      0.6603896617889404,
+      0.6544589996337891,
+      0.6534661650657654,
+      0.6523376703262329
+    ]
+  },
+  {
+    "question_id": 13,
+    "query": "How many Palestinian refugees fled to neighboring countries in 1948?",
+    "choices": [
+      "750,000+ expelled or fled.",
+      "100,000 left temporarily for safety.",
+      "None; all remained in Israel.",
+      "500,000 migrated for economic opportunities."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "750,000+ expelled or fled.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "750,000+ expelled or fled.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.20692038536071777,
+    "generation_time": 3.0984156131744385,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.72434401512146,
+      0.7136894464492798,
+      0.7125803232192993,
+      0.7054136395454407,
+      0.703980565071106
+    ]
+  },
+  {
+    "question_id": 14,
+    "query": "What percentage of historic Palestine was allocated to Jews in the UN Partition Plan despite being a minority?",
+    "choices": [
+      "56% to Jews (33% of population); 43% to Arabs.",
+      "Equal land shares (50/50).",
+      "Jews received 30% as a minority.",
+      "Arabs got 70% for their majority."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "56% to Jews (33% of population); 43% to Arabs.",
+    "bloom_level": "Remember",
+    "generated_answer": "C\nThe answer is C.\nThe answer is",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "Jews received 30% as a minority.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1948549747467041,
+    "generation_time": 2.996133804321289,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "Britian and palestine.pdf",
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf"
+    ],
+    "similarity_scores": [
+      0.7073649168014526,
+      0.6937570571899414,
+      0.6866756081581116,
+      0.6860269904136658,
+      0.6823248863220215
+    ]
+  },
+  {
+    "question_id": 15,
+    "query": "How many Palestinian refugees are registered with UNRWA today?",
+    "choices": [
+      "5.9 million across Gaza/West Bank/Jordan/Lebanon/Syria.",
+      "Under 100,000 still hold refugee status.",
+      "2 million, mostly resettled abroad.",
+      "UNRWA was dissolved in 2024."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "5.9 million across Gaza/West Bank/Jordan/Lebanon/Syria.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "5.9 million across Gaza/West Bank/Jordan/Lebanon/Syria.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.21314048767089844,
+    "generation_time": 3.50594425201416,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7519417405128479,
+      0.7365158796310425,
+      0.7236911058425903,
+      0.7220689058303833,
+      0.720767617225647
+    ]
+  },
+  {
+    "question_id": 16,
+    "query": "What was the Lydda Death March?",
+    "choices": [
+      "Forced expulsion of 50,000–70,000 Palestinians from Lydda/Ramle in 1948; hundreds died of dehydration.",
+      "A voluntary relocation to Jordan.",
+      "A peaceful protest march to Jerusalem.",
+      "An Israeli humanitarian evacuation."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Forced expulsion of 50,000–70,000 Palestinians from Lydda/Ramle in 1948; hundreds died of dehydration.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Forced expulsion of 50,000–70,000 Palestinians from Lydda/Ramle in 1948; hundreds died of dehydration.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1986391544342041,
+    "generation_time": 2.691871166229248,
+    "generation_success": true,
+    "context_sources": [
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.735572338104248,
+      0.6482649445533752,
+      0.644242525100708,
+      0.6415461301803589,
+      0.6270781755447388
+    ]
+  },
+  {
+    "question_id": 17,
+    "query": "How many Palestinian villages were depopulated in 1967?",
+    "choices": [
+      "Over 400,000 Palestinians displaced; 13 villages razed (e.g., Imwas, Yalu).",
+      "No villages were depopulated.",
+      "Only 3 villages evacuated for security.",
+      "Palestinians left to join Jordan’s army."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 400,000 Palestinians displaced; 13 villages razed (e.g., Imwas, Yalu).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Over 400,000 Palestinians displaced; 13 villages razed (e.g., Imwas, Yalu).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19425201416015625,
+    "generation_time": 2.9979922771453857,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "The Palestine Nakba.pdf",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.698850154876709,
+      0.6906726360321045,
+      0.6891992688179016,
+      0.6809182167053223,
+      0.6767338514328003
+    ]
+  },
+  {
+    "question_id": 18,
+    "query": "What was the Israeli government's official policy toward Palestinian return?",
+    "choices": [
+      "Absolute rejection (e.g., 1948 Law of Return for Jews only; 1952 Citizenship Law).",
+      "Israel encourages family reunification.",
+      "All refugees can return under the Oslo Accords.",
+      "Palestinians accepted compensation instead."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Absolute rejection (e.g., 1948 Law of Return for Jews only; 1952 Citizenship Law).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Absolute rejection (e.g., 1948 Law of Return for Jews only; 1952 Citizenship Law).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.1934976577758789,
+    "generation_time": 2.3449480533599854,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "Public sitting Monday 28 April 2025, at 3 p.m., at the Peace Palace.pdf"
+    ],
+    "similarity_scores": [
+      0.7384954690933228,
+      0.7183862328529358,
+      0.7150969505310059,
+      0.7144683599472046,
+      0.71269690990448
+    ]
+  },
+  {
+    "question_id": 19,
+    "query": "How many Palestinians live in refugee camps today?",
+    "choices": [
+      "1.5+ million in 58 UNRWA camps.",
+      "Less than 10,000 in temporary shelters.",
+      "Camps were closed in 2000.",
+      "All refugees integrated into host countries."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "1.5+ million in 58 UNRWA camps.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe question asks how",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "1.5+ million in 58 UNRWA camps.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19307827949523926,
+    "generation_time": 2.7426624298095703,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json"
+    ],
+    "similarity_scores": [
+      0.7281991243362427,
+      0.7209826707839966,
+      0.7203864455223083,
+      0.7142761945724487,
+      0.7038640975952148
+    ]
+  },
+  {
+    "question_id": 20,
+    "query": "How many Palestinian children have been killed in Gaza since 2008?",
+    "choices": [
+      "Over 3,500+ (per UN data: 2,200+ in 2014 alone, 1,300+ in 2023–2025).",
+      "Under 100 child casualties.",
+      "No children died; Hamas uses human shields.",
+      "Deaths caused by Hamas rockets."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 3,500+ (per UN data: 2,200+ in 2014 alone, 1,300+ in 2023–2025).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A. Over 3",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Over 3,500+ (per UN data: 2,200+ in 2014 alone, 1,300+ in 2023–2025).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.190140962600708,
+    "generation_time": 3.7786436080932617,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7669171094894409,
+      0.7664685249328613,
+      0.7549694180488586,
+      0.746696949005127,
+      0.7443314790725708
+    ]
+  },
+  {
+    "question_id": 21,
+    "query": "What is the current caloric restriction imposed on Gaza?",
+    "choices": [
+      "~1,000 calories/day (less than half WHO minimum) during Israeli blockades.",
+      "No restrictions; Gaza has surplus food.",
+      "2,500 calories/day via aid convoys.",
+      "Israel delivers gourmet meals daily."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "~1,000 calories/day (less than half WHO minimum) during Israeli blockades.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe current caloric restriction imposed on Gaza",
+    "selected_choice_idx": 2,
+    "selected_choice_text": "2,500 calories/day via aid convoys.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.2010822296142578,
+    "generation_time": 3.758699417114258,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7447941303253174,
+      0.7403621077537537,
+      0.7400531768798828,
+      0.7398329377174377,
+      0.7387845516204834
+    ]
+  },
+  {
+    "question_id": 22,
+    "query": "How many Palestinians are held in Israeli administrative detention?",
+    "choices": [
+      "1,200+ indefinitely jailed without charge or trial.",
+      "Administrative detention doesn’t exist.",
+      "Only 50 security suspects detained.",
+      "All detainees receive fair trials."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "1,200+ indefinitely jailed without charge or trial.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "1,200+ indefinitely jailed without charge or trial.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.21171355247497559,
+    "generation_time": 3.9274628162384033,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "Report of the Special Rapporteur on the Situation of Human Rights in the Palestinian Territories Occupied Since 1967.pdf",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "Situation of human rights in the Palestinian territories.pdf"
+    ],
+    "similarity_scores": [
+      0.8048416972160339,
+      0.7728353142738342,
+      0.732231616973877,
+      0.729311466217041,
+      0.7096884250640869
+    ]
+  },
+  {
+    "question_id": 23,
+    "query": "What percentage of Gaza's water is unfit for human consumption?",
+    "choices": [
+      "97% contaminated by sewage/seawater due to infrastructure destruction.",
+      "Gaza has 100% clean water.",
+      "10% shortage fixed by Israeli desalination.",
+      "Hamas diverts water for tunnels."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "97% contaminated by sewage/seawater due to infrastructure destruction.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "97% contaminated by sewage/seawater due to infrastructure destruction.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.22156929969787598,
+    "generation_time": 3.7987043857574463,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "Public Sitting  Wednesday 30 April 2025, at 3 p.m., at the Peace Palace,.pdf",
+      "Agricultural Damage Assessment in the Gaza Strip from October 7th 2023 to September 1st 2024.pdf",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7387722730636597,
+      0.719072163105011,
+      0.7149088382720947,
+      0.699284553527832,
+      0.6990565061569214
+    ]
+  },
+  {
+    "question_id": 24,
+    "query": "How many Palestinian homes have been demolished since 1967?",
+    "choices": [
+      "Over 60,000+ (per B’Tselem), including East Jerusalem.",
+      "Only 100 illegal structures removed.",
+      "Demolitions stopped after Oslo Accords.",
+      "Palestinians rebuild freely."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 60,000+ (per B’Tselem), including East Jerusalem.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A. Over 6",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Over 60,000+ (per B’Tselem), including East Jerusalem.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.26369738578796387,
+    "generation_time": 3.1952695846557617,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "Palestine history - aljazeera.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7469587326049805,
+      0.6987114548683167,
+      0.6895277500152588,
+      0.6852904558181763,
+      0.6728585958480835
+    ]
+  },
+  {
+    "question_id": 25,
+    "query": "What is the infant mortality rate in Gaza compared to Israel?",
+    "choices": [
+      "17.7 deaths/1,000 births (Gaza) vs. 3.0 (Israel) – 6× higher.",
+      "Lower in Gaza due to UN aid.",
+      "Identical rates (3.0/1,000).",
+      "Israel has higher infant mortality."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "17.7 deaths/1,000 births (Gaza) vs. 3.0 (Israel) – 6× higher.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe infant mortality rate",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "17.7 deaths/1,000 births (Gaza) vs. 3.0 (Israel) – 6× higher.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.21885228157043457,
+    "generation_time": 3.9670581817626953,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7345143556594849,
+      0.7231701612472534,
+      0.7127039432525635,
+      0.7123808860778809,
+      0.7118752598762512
+    ]
+  },
+  {
+    "question_id": 26,
+    "query": "How many Palestinian prisoners have died in Israeli custody?",
+    "choices": [
+      "250+ since 1967 (torture/medical neglect).",
+      "Zero deaths; prisons meet UN standards.",
+      "5 natural deaths in 75 years.",
+      "Hamas executes prisoners in Gaza."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "250+ since 1967 (torture/medical neglect).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "250+ since 1967 (torture/medical neglect).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.5817379951477051,
+    "generation_time": 3.8060309886932373,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "Situation of human rights in the Palestinian territories.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7347270250320435,
+      0.7304155826568604,
+      0.7209690809249878,
+      0.7128596305847168,
+      0.7107242345809937
+    ]
+  },
+  {
+    "question_id": 27,
+    "query": "What percentage of Palestinian children experience PTSD in Gaza?",
+    "choices": [
+      "75%+ (per Save the Children) from bombing/blockade trauma.",
+      "Under 5% due to resilience programs.",
+      "PTSD is higher in Israeli children.",
+      "No studies exist on this topic."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "75%+ (per Save the Children) from bombing/blockade trauma.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "75%+ (per Save the Children) from bombing/blockade trauma.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.26626014709472656,
+    "generation_time": 3.7222633361816406,
+    "generation_success": true,
+    "context_sources": [
+      "combined_en_ar_articles.json",
+      "palestine_articles.json",
+      "A year of tears 12 months of war on children  UNICEF Report.pdf",
+      "combined_en_ar_articles.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7505528926849365,
+      0.7406498193740845,
+      0.7352563142776489,
+      0.7347726225852966,
+      0.7334567308425903
+    ]
+  },
+  {
+    "question_id": 28,
+    "query": "How many Palestinian students cannot reach schools due to checkpoints?",
+    "choices": [
+      "40%+ in West Bank face delays/denial (per UNICEF).",
+      "Checkpoints never obstruct education.",
+      "Only 1% of students affected.",
+      "Israel provides free buses to schools."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "40%+ in West Bank face delays/denial (per UNICEF).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A. 40",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "40%+ in West Bank face delays/denial (per UNICEF).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.26554012298583984,
+    "generation_time": 2.7574961185455322,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "A year of tears 12 months of war on children  UNICEF Report.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7569767236709595,
+      0.7519755959510803,
+      0.7314055562019348,
+      0.7183554172515869,
+      0.7013394236564636
+    ]
+  },
+  {
+    "question_id": 29,
+    "query": "What is the unemployment rate in Gaza under blockade?",
+    "choices": [
+      "70%+ (world’s highest, per World Bank).",
+      "5% due to high-tech startups.",
+      "Lower than Israel’s unemployment.",
+      "Gaza’s economy is booming."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "70%+ (world’s highest, per World Bank).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "70%+ (world’s highest, per World Bank).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.23005914688110352,
+    "generation_time": 3.5229146480560303,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.738932192325592,
+      0.7342832684516907,
+      0.7256116271018982,
+      0.719722330570221,
+      0.7177314758300781
+    ]
+  },
+  {
+    "question_id": 30,
+    "query": "How much military aid does the US provide Israel annually?",
+    "choices": [
+      "$3.8+ billion/year, plus $14bn emergency aid (2023).",
+      "No military aid; only humanitarian support.",
+      "$500 million/year in non-lethal aid.",
+      "Israel refunds all aid to the US."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "$3.8+ billion/year, plus $14bn emergency aid (2023).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "$3.8+ billion/year, plus $14bn emergency aid (2023).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.23428821563720703,
+    "generation_time": 3.8346846103668213,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.6577836871147156,
+      0.6548364162445068,
+      0.6484017372131348,
+      0.6424182057380676,
+      0.6395619511604309
+    ]
+  },
+  {
+    "question_id": 31,
+    "query": "Which UN resolutions has Israel violated regarding Palestine?",
+    "choices": [
+      "Over 100+, including Resolution 242 (withdrawal), 2334 (settlements), 194 (refugee return).",
+      "None; Israel complies with all UN rulings.",
+      "Only 5 minor technical violations.",
+      "Violations are self-defense exceptions."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 100+, including Resolution 242 (withdrawal), 2334 (settlements), 194 (refugee return).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Over 100+, including Resolution 242 (withdrawal), 2334 (settlements), 194 (refugee return).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.22788405418395996,
+    "generation_time": 3.734583616256714,
+    "generation_success": true,
+    "context_sources": [
+      "Public sitting Monday 28 April 2025.pdf",
+      "Resolutions, Decisions and Voting Records of the General Assembly, the Security.pdf",
+      "Public Sitting Tuesday 29 April 2025, at 10 p.m., at the Peace Palace.pdf",
+      "Compilation of UN Resolutions and Decisions on Question of Palestine Adopted in 2024.pdf",
+      "Resolutions, Decisions and Voting Records of the General Assembly, the Security.pdf"
+    ],
+    "similarity_scores": [
+      0.7306402921676636,
+      0.7264877557754517,
+      0.7256840467453003,
+      0.7254449129104614,
+      0.7233918905258179
+    ]
+  },
+  {
+    "question_id": 32,
+    "query": "How many countries have recognized the State of Palestine?",
+    "choices": [
+      "139+ (UN observer state since 2012).",
+      "Only 20 Arab nations.",
+      "None; Palestine isn’t a real state.",
+      "50 countries, mostly in Africa."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "139+ (UN observer state since 2012).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe context provided includes",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "50 countries, mostly in Africa.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.22420859336853027,
+    "generation_time": 5.0124125480651855,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.7628329992294312,
+      0.726859450340271,
+      0.7266381978988647,
+      0.719275712966919,
+      0.714316725730896
+    ]
+  },
+  {
+    "question_id": 33,
+    "query": "What weapons systems has Britain sold to Israel during ongoing violations?",
+    "choices": [
+      "F-35 parts, missile tech, surveillance gear (per CAAT).",
+      "No weapons since 1948.",
+      "Only non-lethal equipment (e.g., radios).",
+      "Britain halted sales in 2024."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "F-35 parts, missile tech, surveillance gear (per CAAT).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "F-35 parts, missile tech, surveillance gear (per CAAT).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.2224280834197998,
+    "generation_time": 3.41273832321167,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.74716717004776,
+      0.7464516162872314,
+      0.7446205019950867,
+      0.7430745363235474,
+      0.7343242168426514
+    ]
+  },
+  {
+    "question_id": 34,
+    "query": "How many European settlements products are imported despite illegality?",
+    "choices": [
+      "$300M+ annually (per UNCTAD), labeled Made in Israel.",
+      "Zero; EU bans all settlement goods.",
+      "Only 10 products for religious use.",
+      "Settlements produce nothing for export."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "$300M+ annually (per UNCTAD), labeled Made in Israel.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe answer is A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "$300M+ annually (per UNCTAD), labeled Made in Israel.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.22425198554992676,
+    "generation_time": 2.9631614685058594,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles.json",
+      "palestine_articles_with_western_outlets.json",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "Palestine Royal Commission (“Peel Commission”) – UK report.pdf",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.6505759358406067,
+      0.6180282235145569,
+      0.616955041885376,
+      0.6154528856277466,
+      0.6144567728042603
+    ]
+  },
+  {
+    "question_id": 35,
+    "query": "Which international companies profit from Israeli settlements?",
+    "choices": [
+      "Caterpillar, Siemens, AXA, Chevron (per WhoProfits).",
+      "No companies operate in settlements.",
+      "Only Israeli local businesses.",
+      "Starbucks and Disney are major investors."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Caterpillar, Siemens, AXA, Chevron (per WhoProfits).",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nThe answer is A.\nThe answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Caterpillar, Siemens, AXA, Chevron (per WhoProfits).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.19163727760314941,
+    "generation_time": 3.060577392578125,
+    "generation_success": true,
+    "context_sources": [
+      "BDS.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "palestine_articles.json",
+      "palestine_articles.json"
+    ],
+    "similarity_scores": [
+      0.7225010395050049,
+      0.691730260848999,
+      0.678713858127594,
+      0.6783422827720642,
+      0.6687971353530884
+    ]
+  },
+  {
+    "question_id": 36,
+    "query": "How many Palestinian complaints has the ICC received?",
+    "choices": [
+      "Thousands (ICC opened formal investigation in 2021).",
+      "Zero; Palestine isn’t an ICC member.",
+      "5 complaints, all dismissed.",
+      "ICC only investigates Hamas."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Thousands (ICC opened formal investigation in 2021).",
+    "bloom_level": "Remember",
+    "generated_answer": "B\nAnswer: B\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Thousands (ICC opened formal investigation in 2021).",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.22623705863952637,
+    "generation_time": 3.5643205642700195,
+    "generation_success": true,
+    "context_sources": [
+      "Decision on the admissibility of the appeal of the State of Israel against Pre-Trial.pdf",
+      "Public sitting Monday 28 April 2025.pdf",
+      "palestine_articles_with_western_outlets.json",
+      "Resolutions, Decisions and Voting Records of the General Assembly, the Security.pdf",
+      "Public sitting Monday 28 April 2025.pdf"
+    ],
+    "similarity_scores": [
+      0.6943737268447876,
+      0.6876609921455383,
+      0.6800981760025024,
+      0.6797497868537903,
+      0.6788163781166077
+    ]
+  },
+  {
+    "question_id": 37,
+    "query": "What percentage of UNSC resolutions on Palestine has the US vetoed?",
+    "choices": [
+      "Over 45+ vetoes shielding Israel.",
+      "The US has never used its veto.",
+      "Only 2 vetoes since 1948.",
+      "Vetoes are always paired with UK/France."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Over 45+ vetoes shielding Israel.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe United States has",
+    "selected_choice_idx": 3,
+    "selected_choice_text": "Vetoes are always paired with UK/France.",
+    "is_correct": false,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.192521333694458,
+    "generation_time": 3.2353200912475586,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles_with_western_outlets.json"
+    ],
+    "similarity_scores": [
+      0.73944491147995,
+      0.7017905116081238,
+      0.6932347416877747,
+      0.6916938424110413,
+      0.6883410215377808
+    ]
+  },
+  {
+    "question_id": 38,
+    "query": "How many international law experts consider Israeli actions genocidal?",
+    "choices": [
+      "800+ scholars (per OCHR) support South Africa’s ICJ case.",
+      "Zero credible experts.",
+      "Only pro-Hamas activists allege genocide.",
+      "ICJ ruled it not plausible in 2024."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "800+ scholars (per OCHR) support South Africa’s ICJ case.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe answer is A",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "800+ scholars (per OCHR) support South Africa’s ICJ case.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.20515060424804688,
+    "generation_time": 2.18988037109375,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "palestine_articles.json",
+      "Situation of human rights in the Palestinian territories.pdf",
+      "Situation of human rights in the Palestinian territories.pdf",
+      "aljazeera_articles.json"
+    ],
+    "similarity_scores": [
+      0.7448703050613403,
+      0.7264124155044556,
+      0.7120541334152222,
+      0.7078837156295776,
+      0.7044978141784668
+    ]
+  },
+  {
+    "question_id": 39,
+    "query": "Which human rights organizations have documented Israeli apartheid?",
+    "choices": [
+      "Amnesty, HRW, B’Tselem, UN ESCWA.",
+      "No major organizations use apartheid.",
+      "Only antisemitic groups promote this.",
+      "ICC rejected apartheid claims in 2023."
+    ],
+    "gold_idx": 0,
+    "correct_choice": "Amnesty, HRW, B’Tselem, UN ESCWA.",
+    "bloom_level": "Remember",
+    "generated_answer": "A\nAnswer: A\nThe correct answer is",
+    "selected_choice_idx": 0,
+    "selected_choice_text": "Amnesty, HRW, B’Tselem, UN ESCWA.",
+    "is_correct": true,
+    "confidence": 1.0,
+    "is_valid_selection": true,
+    "retrieved_chunks": 5,
+    "retrieval_time": 0.21610116958618164,
+    "generation_time": 3.112730026245117,
+    "generation_success": true,
+    "context_sources": [
+      "palestine_articles_with_western_outlets.json",
+      "combined_en_ar_articles.json",
+      "combined_en_ar_articles.json",
+      "The Palestine Nakba.pdf",
+      "Public Sitting Tuesday 29 April 2025, at 10 p.m., at the Peace Palace.pdf"
+    ],
+    "similarity_scores": [
+      0.7001439332962036,
+      0.671155571937561,
+      0.6663171052932739,
+      0.6635134220123291,
+      0.6602760553359985
+    ]
+  }
+]
